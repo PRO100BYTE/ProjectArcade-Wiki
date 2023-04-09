@@ -1,24 +1,24 @@
-# Adding RetroArch Shader Sets to Retrobat
+# Adding RetroArch Shader Sets to ProjectArcade
 
-Retrobat comes bundled with a set of shaders, however it does not include all shaders available in Retroarch.
+ProjectArcade comes bundled with a set of shaders, however it does not include all shaders available in Retroarch.
 
 
 
-You can manually add new Shader Sets to the Retrobat menu for libretro cores, here is the procedure.
+You can manually add new Shader Sets to the ProjectArcade menu for libretro cores, here is the procedure.
 
 <figure><img src="https://i.imgur.com/XR6pMX0.png" alt=""><figcaption></figcaption></figure>
 
 ## Location of Shaders
 
-### Retrobat
+### ProjectArcade
 
-Shaders available in Retrobat are located in the `\system\shaders\configs` folder of your Retrobat installation.
+Shaders available in ProjectArcade are located in the `\system\shaders\configs` folder of your ProjectArcade installation.
 
 <figure><img src="https://i.imgur.com/ChxJMdd.png" alt=""><figcaption></figcaption></figure>
 
 ### RetroArch
 
-Shaders available in Retroarch are located in the `\retroarch\shaders\` folder of your Retrobat installation.
+Shaders available in Retroarch are located in the `\retroarch\shaders\` folder of your ProjectArcade installation.
 
 They are sorted first by type of shader (glsl or slang):
 
@@ -26,7 +26,7 @@ They are sorted first by type of shader (glsl or slang):
 * Slang: New and recommended shader format, when available. Compatible with Vulkan, Direct3D 10/11/12, OpenGL Core.
 
 {% hint style="info" %}
-Retrobat will automatically search in the right folder based on the video driver defined for the system.
+ProjectArcade will automatically search in the right folder based on the video driver defined for the system.
 {% endhint %}
 
 Example of shader folders for GLSL:
@@ -35,16 +35,16 @@ Example of shader folders for GLSL:
 
 
 
-## Adding a new Shader in the Retrobat menu
+## Adding a new Shader in the ProjectArcade menu
 
-Let's say you want to add the Shader "advcartoon" to Retrobat, the shader is available both for GLSL and SLANG:
+Let's say you want to add the Shader "advcartoon" to ProjectArcade, the shader is available both for GLSL and SLANG:
 
 | ![](<../.gitbook/assets/image (4).png>) | ![](<../.gitbook/assets/image (1) (1).png>) |
 | --------------------------------------- | ------------------------------------------- |
 
 The shader is located in the `\retroarch\shaders\shaders_xxxx\cel` folder and is named "advcartoon.glslp".
 
-To add it to Retrobat, go to the `\system\shaders\configs` folder and create a new folder, name it for example "advcartoon":
+To add it to ProjectArcade, go to the `\system\shaders\configs` folder and create a new folder, name it for example "advcartoon":
 
 <figure><img src="https://i.imgur.com/xkrY1en.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,6 +68,6 @@ default:
 
 <figure><img src="https://i.imgur.com/uKOVcK3.png" alt=""><figcaption></figcaption></figure>
 
-The shader set will now appear in Retrobat:
+The shader set will now appear in ProjectArcade:
 
 <figure><img src="https://i.imgur.com/J6fPEFF.png" alt=""><figcaption></figcaption></figure>

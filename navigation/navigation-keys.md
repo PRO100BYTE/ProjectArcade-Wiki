@@ -1,8 +1,8 @@
 # Navigation Keys
 
-You can navigate Retrobat using your controller or your keyboard.
+You can navigate ProjectArcade using your controller or your keyboard.
 
-A detailed pdf notice can be found [here](http://retrobat.ovh/notice/notice.pdf).
+A detailed pdf notice provided by RetroBat team can be found [here](https://dl.projectarcade.ru/store/notice/notice.pdf).
 
 ### **Controller navigation keys**
 

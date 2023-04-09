@@ -26,7 +26,7 @@ Game console - Lifespan: 1982 - 1984
 
 ## Controls
 
-| Retrobat Button                                          | Atari 5200 key          |
+| ProjectArcade Button                                          | Atari 5200 key          |
 | -------------------------------------------------------- | ----------------------- |
 | START                                                    | START key               |
 | SELECT                                                   | SELECT key              |

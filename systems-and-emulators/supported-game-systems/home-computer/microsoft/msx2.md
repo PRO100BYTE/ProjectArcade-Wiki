@@ -39,7 +39,7 @@ Bluemsx core allows you to choose between the following controller types:
 * RETROPAD
 * KEYBOARD
 
-| Retrobat Button                                          | MSX key   |
+| ProjectArcade Button                                          | MSX key   |
 | -------------------------------------------------------- | --------- |
 | START                                                    | START     |
 | SELECT                                                   | SELECT    |

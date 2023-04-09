@@ -24,7 +24,7 @@ Game Console - Lifespan: 1994 - 2000
 
 ## Controls
 
-| RetroBat key                                                                              | Saturn key        |
+| ProjectArcade key                                                                              | Saturn key        |
 | ----------------------------------------------------------------------------------------- | ----------------- |
 | START                                                                                     | START             |
 | SELECT / BACK                                                                             | SELECT            |

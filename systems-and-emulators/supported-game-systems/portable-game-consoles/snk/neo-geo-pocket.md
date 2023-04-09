@@ -23,7 +23,7 @@ No BIOS required for Neo Geo Pocket.
 
 ## Controls
 
-| Retrobat Button                                          | Neo Geo Pocket Key |
+| ProjectArcade Button                                          | Neo Geo Pocket Key |
 | -------------------------------------------------------- | ------------------ |
 | START                                                    | START              |
 | SELECT                                                   |                    |

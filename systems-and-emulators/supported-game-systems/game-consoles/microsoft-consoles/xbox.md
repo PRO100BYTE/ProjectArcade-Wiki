@@ -30,7 +30,7 @@ Game Console - Lifespan: 2001 - 2006
 
 ## Controls
 
-| RetroBat key                                                                              | Xbox key           |
+| ProjectArcade key                                                                              | Xbox key           |
 | ----------------------------------------------------------------------------------------- | ------------------ |
 | START                                                                                     | START              |
 | SELECT / BACK                                                                             | Back               |
@@ -56,4 +56,4 @@ If your games are all in German or in French, it might be because the eeprom fil
 
 It is recommended to properly set your language on your original Xbox and extract the BIOS files again.&#x20;
 
-Alternatively, you can edit the eeprom file located in the `/saves/xbox/` directory of your Retrobat folder with a tool available [here (Ernegien's Original Xbox EEPROM editor)](https://github.com/Ernegien/XboxEepromEditor) to change Xbox eeprom settings.
+Alternatively, you can edit the eeprom file located in the `/saves/xbox/` directory of your ProjectArcade folder with a tool available [here (Ernegien's Original Xbox EEPROM editor)](https://github.com/Ernegien/XboxEepromEditor) to change Xbox eeprom settings.

@@ -11,7 +11,7 @@ Emulator
 {% embed url="http://www.geodstudio.net" %}
 
 {% hint style="warning" %}
-3DSen is a paid software, it will not be provided by Retrobat team.&#x20;
+3DSen is a paid software, it will not be provided by ProjectArcade team.&#x20;
 
 Once purchased the emulator must be installed in the \emulators\3dsen folder.&#x20;
 {% endhint %}
@@ -42,10 +42,10 @@ Same controls as [NES system](nintendo-entertainment-system-family-computer.md#c
 ### 3DSen ROM file
 
 {% hint style="info" %}
-The RetroBat team has prepared the full set of 3DSen files for you and a preconfigured json file linking game ROMs to 3DSen IDs based on the "NoIntro" romset ROM names.
+The ProjectArcade team has prepared the full set of 3DSen files for you and a preconfigured json file linking game ROMs to 3DSen IDs based on the "NoIntro" romset ROM names.
 {% endhint %}
 
-3DSen Emulator has a fixed ID for each compatible game, in order for Retrobat to be able to launch 3DSen with a game, the game ID needs to be specified in a .3dsen file:
+3DSen Emulator has a fixed ID for each compatible game, in order for ProjectArcade to be able to launch 3DSen with a game, the game ID needs to be specified in a .3dsen file:
 
 <figure><img src="https://i.imgur.com/egozosL.png" alt=""><figcaption></figcaption></figure>
 

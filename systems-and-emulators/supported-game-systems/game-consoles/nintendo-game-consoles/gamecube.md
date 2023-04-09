@@ -29,7 +29,7 @@ The BIOS files are not mandatory to launch games but some require at least one o
 ## Controls
 
 {% hint style="info" %}
-The following controllers can be autoconfigured from RetroBat to Dolphin:
+The following controllers can be autoconfigured from ProjectArcade to Dolphin:
 
 * XInput controllers
 * Dualshock 4 and Dualsense controllers
@@ -37,7 +37,7 @@ The following controllers can be autoconfigured from RetroBat to Dolphin:
 * Original Gamecube controller through Gamecube Adapter
 {% endhint %}
 
-| RetroBat key                                                                              | GameCube key             |
+| ProjectArcade key                                                                              | GameCube key             |
 | ----------------------------------------------------------------------------------------- | ------------------------ |
 | START                                                                                     | START                    |
 | D-PAD                                                                                     | D-PAD                    |

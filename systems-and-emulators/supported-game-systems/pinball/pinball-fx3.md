@@ -12,7 +12,7 @@ Pinball Simulation Software - Released 2017
 
 ## Controls
 
-| RetroBat key                                                                           | Pinball FX3 Action                    |
+| ProjectArcade key                                                                           | Pinball FX3 Action                    |
 | -------------------------------------------------------------------------------------- | ------------------------------------- |
 | START                                                                                  | Open Menu                             |
 | SELECT                                                                                 | Open Menu                             |
@@ -34,7 +34,7 @@ Pinball Simulation Software - Released 2017
 
 ### Cabinet Mode
 
-To be able to launch Pinball FX3 tables from RetroBat you must meet the following requirements:
+To be able to launch Pinball FX3 tables from ProjectArcade you must meet the following requirements:
 
 * [x] Own a legit copy of Pinball FX3, downloaded on Steam.
 * [x] Own a licence for at least one collection of tables.
@@ -52,7 +52,7 @@ More information about Cabinet Mode here:\
 
 ### Tables
 
-Once you have the Cabinet Mode activated, you can copy the `.pxp` files of the Tables for which you own a licence in the :open\_file\_folder:`roms\`:open\_file\_folder:`pinballfx3` folder of your RetroBat installation. Then the Pinball FX3 system will appear when you navigate in the System View.
+Once you have the Cabinet Mode activated, you can copy the `.pxp` files of the Tables for which you own a licence in the :open\_file\_folder:`roms\`:open\_file\_folder:`pinballfx3` folder of your ProjectArcade installation. Then the Pinball FX3 system will appear when you navigate in the System View.
 
 You will find the Tables `.pxp` files you need to copy in the folder of your Pinball FX3 installation.&#x20;
 
@@ -72,8 +72,8 @@ To easily find this location, just follow these steps:
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>the Pinball FX3 installation folder</p></figcaption></figure>
 
-* In Explorer, go in the :open\_file\_folder:`data\`:open\_file\_folder:`steam` folder to see all the Tables `.pxp` files. You can now select the Tables that you own a licence for and copy them in the :open\_file\_folder:`roms\`:open\_file\_folder:`pinballfx3` folder of your RetroBat installation.
+* In Explorer, go in the :open\_file\_folder:`data\`:open\_file\_folder:`steam` folder to see all the Tables `.pxp` files. You can now select the Tables that you own a licence for and copy them in the :open\_file\_folder:`roms\`:open\_file\_folder:`pinballfx3` folder of your ProjectArcade installation.
 
 {% hint style="info" %}
-Even if all the Tables files exist, only the Tables for which you own a licence will play when you launch them in RetroBat.
+Even if all the Tables files exist, only the Tables for which you own a licence will play when you launch them in ProjectArcade.
 {% endhint %}

@@ -20,7 +20,7 @@ No BIOS required.
 
 ## Controls
 
-| RetroBat key                                                                              | Virtual Boy key |
+| ProjectArcade key                                                                              | Virtual Boy key |
 | ----------------------------------------------------------------------------------------- | --------------- |
 | START                                                                                     | START           |
 | SELECT                                                                                    | SELECT          |

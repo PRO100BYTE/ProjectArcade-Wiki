@@ -55,7 +55,7 @@ For FBNEO core:
 
 ## Controls
 
-| Retrobat Button                                          | Neo Geo CD Key |
+| ProjectArcade Button                                          | Neo Geo CD Key |
 | -------------------------------------------------------- | -------------- |
 | START                                                    | START          |
 | SELECT                                                   | SELECT         |

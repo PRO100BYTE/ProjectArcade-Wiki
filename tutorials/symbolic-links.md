@@ -46,7 +46,7 @@ In the next example, we will suppose that you are storing your 3do game ROMs in 
 4. Go to the `C:\ProjectArcade\roms` folder, right-click anywhere inside the folder and select "**Drop As... > Symbolic Link**"
 5. Your `C:\ProjectArcade\roms` folder will now show a 3do folder icon with a small arrow ![](<../.gitbook/assets/image (6).png>)&#x20;
 
-**CONGRATULATIONS** : you have just created a symbolic link !
+**Congratulations!** You have just created a symbolic link !
 
 You can now repeat this operation for any folder that you would want to store in another place as the default one.
 

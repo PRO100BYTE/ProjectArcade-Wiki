@@ -23,7 +23,7 @@ Portable Game Console - Lifespan: 1998 - 2003
 
 ## Controls
 
-| RetroBat key                                                                              | Game Boy Color key |
+| ProjectArcade key                                                                              | Game Boy Color key |
 | ----------------------------------------------------------------------------------------- | ------------------ |
 | START                                                                                     | START              |
 | SELECT / BACK                                                                             | SELECT             |

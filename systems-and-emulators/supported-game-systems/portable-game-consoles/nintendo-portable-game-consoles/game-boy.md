@@ -29,7 +29,7 @@ sgb\* files are required for mesen-s core, as it uses Super Game Boy to emulate 
 
 ## Controls
 
-| RetroBat key                                                                              | Game Boy key |
+| ProjectArcade key                                                                              | Game Boy key |
 | ----------------------------------------------------------------------------------------- | ------------ |
 | START                                                                                     | START        |
 | SELECT / BACK                                                                             | SELECT       |

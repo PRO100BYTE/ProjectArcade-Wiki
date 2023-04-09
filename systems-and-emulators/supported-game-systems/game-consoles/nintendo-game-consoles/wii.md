@@ -30,7 +30,7 @@ There is no BIOS files needed to run games.
 ## Controls (Dolphin standalone)
 
 {% hint style="info" %}
-The following controllers can be autoconfigured from RetroBat to Dolphin:
+The following controllers can be autoconfigured from ProjectArcade to Dolphin:
 
 * REAL Wiimotes (with Dolphinbar) / default
 * XInput controllers
@@ -41,7 +41,7 @@ The following controllers can be autoconfigured from RetroBat to Dolphin:
 
 ### REAL WIIMOTE
 
-For best experience, you can use real **Wiimotes** with a **Mayflash DolphinBar** (in mode 4) and activate the **REAL WIIMOTES** setting in Retrobat from the [System View Options](../../../../navigation/view-options.md) or from the [Game Options](../../../../navigation/game-options.md)
+For best experience, you can use real **Wiimotes** with a **Mayflash DolphinBar** (in mode 4) and activate the **REAL WIIMOTES** setting in ProjectArcade from the [System View Options](../../../../navigation/view-options.md) or from the [Game Options](../../../../navigation/game-options.md)
 
 <figure><img src="https://i.imgur.com/0jC9b8z.png" alt=""><figcaption></figcaption></figure>
 
@@ -49,13 +49,13 @@ For best experience, you can use real **Wiimotes** with a **Mayflash DolphinBar*
 
 ### EMULATED WIIMOTE
 
-If you do not own a real wiimote and need to emulate the wiimote, Retrobat offers multiple options to correctly emulate it and use all its features with a gamepad when enabling the option **EMULATED WIIMOTE**
+If you do not own a real wiimote and need to emulate the wiimote, ProjectArcade offers multiple options to correctly emulate it and use all its features with a gamepad when enabling the option **EMULATED WIIMOTE**
 
 <figure><img src="https://i.imgur.com/ZrsVFNx.png" alt=""><figcaption></figcaption></figure>
 
 The mapping hereunder is the default mapping when using **EMULATED**
 
-| RetroBat key                                                                              | Emulated Wiimote key     |
+| ProjectArcade key                                                                              | Emulated Wiimote key     |
 | ----------------------------------------------------------------------------------------- | ------------------------ |
 | START                                                                                     |                          |
 | SELECT / BACK                                                                             | Home                     |
@@ -87,7 +87,7 @@ This will enable the classic controller mapping. For games supporting the Classi
 
 The is the Classic Controller mapping
 
-| Retrobat key                                                                              | Classic Controller key |
+| ProjectArcade key                                                                              | Classic Controller key |
 | ----------------------------------------------------------------------------------------- | ---------------------- |
 | START                                                                                     | +                      |
 | SELECT                                                                                    | -                      |
@@ -183,7 +183,7 @@ This is the default layout that should be used for games requiring you to hold t
 
 It used the default mapping with the following changes:
 
-| Retrobat Key                                                                              | Wiimote Key |
+| ProjectArcade Key                                                                              | Wiimote Key |
 | ----------------------------------------------------------------------------------------- | ----------- |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | 1           |
 | ![B](<../../../../.gitbook/assets/image (4) (1).png>)                                     | 2           |
@@ -227,7 +227,7 @@ The following list of emulated devices is available in the advanced options:
 * REAL WIIMOTE
 * GAMECUBE CONTROLLER ([see Gamecube mapping](gamecube.md#controls))
 
-| Retrobat key                                                                              | WIIMOTE | SIDE  | NUNCHUK                  | CLASSIC CONTROLLER  |
+| ProjectArcade key                                                                              | WIIMOTE | SIDE  | NUNCHUK                  | CLASSIC CONTROLLER  |
 | ----------------------------------------------------------------------------------------- | ------- | ----- | ------------------------ | ------------------- |
 | START                                                                                     | +       | +     | 1                        | +                   |
 | SELECT                                                                                    | -       | -     | 2                        | -                   |

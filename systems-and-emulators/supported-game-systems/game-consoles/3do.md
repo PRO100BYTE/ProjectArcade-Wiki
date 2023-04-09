@@ -27,7 +27,7 @@ Game Console - Lifespan: 1993 - 1999
 
 ## Controls
 
-| Retrobat Button                                       | 3do key |
+| ProjectArcade Button                                       | 3do key |
 | ----------------------------------------------------- | ------- |
 | START                                                 | START   |
 | SELECT                                                | SELECT  |

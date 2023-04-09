@@ -26,7 +26,7 @@ Game Console - Lifespan: 1979 - 1990
 
 ## Controls
 
-| Retrobat Button                                       | Intellivision key                                  |
+| ProjectArcade Button                                       | Intellivision key                                  |
 | ----------------------------------------------------- | -------------------------------------------------- |
 | START                                                 | Pause Game                                         |
 | SELECT                                                | SELECT                                             |

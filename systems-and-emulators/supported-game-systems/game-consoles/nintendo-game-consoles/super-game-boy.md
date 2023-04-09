@@ -27,7 +27,7 @@ Game Console accessory - Release date: 1994
 
 Same mapping as Game Boy system.
 
-| RetroBat key                                                                              | Super Game Boy key |
+| ProjectArcade key                                                                              | Super Game Boy key |
 | ----------------------------------------------------------------------------------------- | ------------------ |
 | START                                                                                     | START              |
 | SELECT / BACK                                                                             | SELECT             |

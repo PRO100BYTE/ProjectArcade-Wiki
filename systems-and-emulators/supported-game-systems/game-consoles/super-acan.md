@@ -27,7 +27,7 @@ No BIOS required.
 
 ## Controls
 
-| Retrobat Button                                       | Super A'Can key |
+| ProjectArcade Button                                       | Super A'Can key |
 | ----------------------------------------------------- | --------------- |
 | START                                                 | START           |
 | SELECT                                                | SELECT          |

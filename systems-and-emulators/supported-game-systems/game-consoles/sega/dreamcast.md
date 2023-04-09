@@ -43,7 +43,7 @@ dc.zip
 
 ## Controls
 
-| Retrobat Button                                          | Dreamcast key |
+| ProjectArcade Button                                          | Dreamcast key |
 | -------------------------------------------------------- | ------------- |
 | START                                                    | START         |
 | D-PAD                                                    | D-PAD         |
@@ -76,7 +76,7 @@ create a `Alone in the dark The new nightmare.m3u` text file with the following 
 
 <figure><img src="https://i.imgur.com/9dQJhD9.png" alt=""><figcaption></figcaption></figure>
 
-Retrobat will automatically detect the m3u file and hide the individual .gdi files from the Game List.
+ProjectArcade will automatically detect the m3u file and hide the individual .gdi files from the Game List.
 
 ### Custom textures
 

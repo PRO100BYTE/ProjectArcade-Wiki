@@ -26,7 +26,7 @@ There is no BIOS files needed to run games.
 
 ## Controls
 
-| RetroBat key                                                                              | NES key |
+| ProjectArcade key                                                                              | NES key |
 | ----------------------------------------------------------------------------------------- | ------- |
 | START                                                                                     | START   |
 | SELECT / BACK                                                                             | SELECT  |

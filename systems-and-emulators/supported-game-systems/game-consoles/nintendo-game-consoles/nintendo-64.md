@@ -26,7 +26,7 @@ There is no BIOS files needed to run games.
 
 ## Controls
 
-| RetroBat key                                                                              | Nintendo 64 key             |
+| ProjectArcade key                                                                              | Nintendo 64 key             |
 | ----------------------------------------------------------------------------------------- | --------------------------- |
 | START                                                                                     | START                       |
 | SELECT / BACK                                                                             |                             |
@@ -64,7 +64,7 @@ For htc or hts files, the file name must be `GAMEID"__HIRESTEXTURES.hts` or .htc
 
 For uncompressed folder, the folder name must be similar to the gameID (for example  `MARIOKART64`).
 
-Once the texture pack in the right folder, enable **CUSTOM TEXTURES** in Retrobat.
+Once the texture pack in the right folder, enable **CUSTOM TEXTURES** in ProjectArcade.
 
 <figure><img src="https://i.imgur.com/jBt3sjA.png" alt=""><figcaption><p>Advanced System Options (can also be done per game)</p></figcaption></figure>
 

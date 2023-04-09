@@ -38,7 +38,7 @@ gamecom.zip
 
 ## Controls
 
-| Retrobat Button                                       | Gamecom key |
+| ProjectArcade Button                                       | Gamecom key |
 | ----------------------------------------------------- | ----------- |
 | START                                                 | MENU        |
 | SELECT                                                | PAUSE       |

@@ -23,7 +23,7 @@ No BIOS required.
 
 ## Controls
 
-| Retrobat Button                                       | Supervision key |
+| ProjectArcade Button                                       | Supervision key |
 | ----------------------------------------------------- | --------------- |
 | START                                                 | START           |
 | SELECT                                                | SELECT          |

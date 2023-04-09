@@ -25,7 +25,7 @@ Game Console - Released: 2001
 
 ## Controls
 
-| Retrobat Button                                          | Pokemini key |
+| ProjectArcade Button                                          | Pokemini key |
 | -------------------------------------------------------- | ------------ |
 | START                                                    | START        |
 | SELECT                                                   | SELECT       |

@@ -18,7 +18,7 @@ No BIOS required for LCD games.
 
 The controls is usually unique to each LCD game.
 
-| RetroBat key                                                                           | Handheld key |
+| ProjectArcade key                                                                           | Handheld key |
 | -------------------------------------------------------------------------------------- | ------------ |
 | START                                                                                  | START        |
 | SELECT                                                                                 | SELECT       |
@@ -50,7 +50,7 @@ Place the artwork in the `\bios\mame\artwork`folder, files must have exactly the
 
 <figure><img src="https://i.imgur.com/SXyo1nr.png" alt=""><figcaption></figcaption></figure>
 
-Then, in Retrobat, go to the **Game & Watch** system and select the emulator for the game.
+Then, in ProjectArcade, go to the **Game & Watch** system and select the emulator for the game.
 
 {% hint style="info" %}
 By default, LCD Games is grouped with Games & Watch system, you can ungroup it by following the [guide](../../../navigation/system-view-and-game-view.md#grouped-systems).

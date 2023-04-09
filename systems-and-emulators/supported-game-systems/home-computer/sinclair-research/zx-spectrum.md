@@ -26,7 +26,7 @@ Buttons L1 and R1 are mapped to RETURN and SPACE, respectively.&#x20;
 
 The SELECT button brings up the embedded, on-screen keyboard which is useful if you only have controllers attached to your computer.
 
-* For joystick games: in the RetroBat [advanced system settings or game settings](../../../../navigation/view-options.md#advanced-system-options), select the option "**JOYSTICK ONLY**" and set user 1 to a joystick type. Optionally, set user 2 to another joystick type (local cooperative games).
+* For joystick games: in the ProjectArcade [advanced system settings or game settings](../../../../navigation/view-options.md#advanced-system-options), select the option "**JOYSTICK ONLY**" and set user 1 to a joystick type. Optionally, set user 2 to another joystick type (local cooperative games).
 
 <figure><img src="https://i.imgur.com/wIyIvF9.png" alt=""><figcaption></figcaption></figure>
 

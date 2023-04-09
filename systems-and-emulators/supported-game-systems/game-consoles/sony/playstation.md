@@ -32,7 +32,7 @@ Game Console - Lifespan: 1994 - 2006
 
 ## Controls
 
-| RetroBat key                                                                              | Playstation key    |
+| ProjectArcade key                                                                              | Playstation key    |
 | ----------------------------------------------------------------------------------------- | ------------------ |
 | START                                                                                     | START              |
 | SELECT / BACK                                                                             | SELECT             |
@@ -79,7 +79,7 @@ To do so you need to place the custom texture pack in the `\roms\psx` folder in 
 
 <figure><img src="https://i.imgur.com/GdXSRWK.png" alt=""><figcaption></figcaption></figure>
 
-Once the texture pack in place, just enable the option within Retrobat:
+Once the texture pack in place, just enable the option within ProjectArcade:
 
 <figure><img src="https://i.imgur.com/WzHZPKq.png" alt=""><figcaption><p>Advanced options > Visual Rendering</p></figcaption></figure>
 

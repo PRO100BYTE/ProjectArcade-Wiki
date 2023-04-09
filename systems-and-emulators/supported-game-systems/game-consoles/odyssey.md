@@ -30,7 +30,7 @@ Game Console - Lifespan: 1978 - 1984
 
 Keyboard mapped to keyboard, Joystick mapping hereunder:
 
-| Retrobat Button                                       | Odyssey2 key |
+| ProjectArcade Button                                       | Odyssey2 key |
 | ----------------------------------------------------- | ------------ |
 | START                                                 |              |
 | SELECT                                                |              |

@@ -18,7 +18,7 @@ No BIOS required.
 
 ## Controls
 
-| RetroBat key                                                                           | Future Pinball key       |
+| ProjectArcade key                                                                           | Future Pinball key       |
 | -------------------------------------------------------------------------------------- | ------------------------ |
 | START                                                                                  | START game               |
 | SELECT                                                                                 | Insert COIN              |
@@ -63,10 +63,10 @@ If you receive an error message like the following one:
 
 You need to launch Future Pinball as administrator once only.\
 \
-So, go to the "**fpinball**" folder in the "**emulators**" folder at the root of your Retrobat installation folder.\
+So, go to the "**fpinball**" folder in the "**emulators**" folder at the root of your ProjectArcade installation folder.\
 \
 Then right-click on the Future Pinball executable "**Future Pinball.exe**" and, as showed on the picture, select "**Run as administrator**"
 
 <figure><img src="https://i.imgur.com/2XXANBV.png" alt=""><figcaption></figcaption></figure>
 
-Once Future Pinball has started, you can close it and start it again from Retrobat.
+Once Future Pinball has started, you can close it and start it again from ProjectArcade.

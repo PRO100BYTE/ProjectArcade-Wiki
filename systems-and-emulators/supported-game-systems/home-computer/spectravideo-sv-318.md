@@ -34,7 +34,7 @@ Bluemsx core allows you to choose between the following controller types:
 * RETROPAD
 * KEYBOARD
 
-| Retrobat Button                                       | Spectravideo key |
+| ProjectArcade Button                                       | Spectravideo key |
 | ----------------------------------------------------- | ---------------- |
 | START                                                 | START            |
 | SELECT                                                | SELECT           |

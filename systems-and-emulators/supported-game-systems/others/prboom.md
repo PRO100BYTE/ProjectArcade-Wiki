@@ -19,9 +19,9 @@ No BIOS required.
 
 ## Controls
 
-PrBoom allows you to choose between 2 controller layouts from RetroBat menu.
+PrBoom allows you to choose between 2 controller layouts from ProjectArcade menu.
 
-| Retrobat Button                                       | Classic         | Modern                                                       |
+| ProjectArcade Button                                       | Classic         | Modern                                                       |
 | ----------------------------------------------------- | --------------- | ------------------------------------------------------------ |
 | START                                                 | Show/Hide Menu  | Show/Hide Menu                                               |
 | SELECT                                                | Show/Hide Map   | Show/Hide Map                                                |

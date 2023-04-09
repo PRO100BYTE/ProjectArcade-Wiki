@@ -27,7 +27,7 @@ Same BIOS as Game Boy Color system.
 
 ## Controls
 
-| RetroBat key                                                                              | Game Boy Color key |
+| ProjectArcade key                                                                              | Game Boy Color key |
 | ----------------------------------------------------------------------------------------- | ------------------ |
 | START                                                                                     | START              |
 | SELECT / BACK                                                                             | SELECT             |

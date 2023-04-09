@@ -26,7 +26,7 @@ Computer - Lifespan: 1992 - 1996
 
 Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
 
-| Retrobat Button                                          | Amiga 1200 key                             |
+| ProjectArcade Button                                          | Amiga 1200 key                             |
 | -------------------------------------------------------- | ------------------------------------------ |
 | START                                                    |                                            |
 | SELECT                                                   | Toggle virtual keyboard / Toggle statusbar |

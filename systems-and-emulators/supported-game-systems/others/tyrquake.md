@@ -19,9 +19,9 @@ No BIOS required.
 
 ## Controls
 
-Tyrquakes allows you to choose between 3 controller layouts from RetroBat menu.
+Tyrquakes allows you to choose between 3 controller layouts from ProjectArcade menu.
 
-| Retrobat Button                                       | Tyrquake Classic                                 | Tyrquake Alt                                     | Tyrquake Modern                                |
+| ProjectArcade Button                                       | Tyrquake Classic                                 | Tyrquake Alt                                     | Tyrquake Modern                                |
 | ----------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ | ---------------------------------------------- |
 | START                                                 | Menu                                             | Menu                                             | Menu                                           |
 | SELECT                                                | Toggle Run Mode                                  | Toggle Run Mode                                  | Show scores                                    |

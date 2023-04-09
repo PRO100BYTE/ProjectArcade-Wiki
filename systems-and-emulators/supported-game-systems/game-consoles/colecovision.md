@@ -22,7 +22,7 @@ Game Console - Lifespan: 1982 - 1985
 
 ## Controls
 
-| Retrobat Button                                       | Colecovision key |
+| ProjectArcade Button                                       | Colecovision key |
 | ----------------------------------------------------- | ---------------- |
 | START                                                 | #                |
 | SELECT                                                | \*               |

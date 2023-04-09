@@ -1,14 +1,14 @@
 ---
-description: Retrobat navigation basics
+description: ProjectArcade navigation basics
 ---
 
 # System View and Game View
 
-All screenshots in this section are done with the default Retrobat theme **ES-THEME-CARBON**.
+All screenshots in this section are done with the default ProjectArcade theme **ProjectArcade Simple**.
 
 ## System View
 
-The first screen displayed when launching Retrobat is the **System View**, from here you can navigate through systems and enter the **Game View**.
+The first screen displayed when launching ProjectArcade is the **System View**, from here you can navigate through systems and enter the **Game View**.
 
 <figure><img src="https://i.imgur.com/pYMalry.png" alt=""><figcaption><p>System View with <strong>ES-THEME-CARBON</strong></p></figcaption></figure>
 
@@ -97,11 +97,11 @@ PORTS
 
 </details>
 
-You can ungroup systems in [**Main Menu**](main-menu.md) **> GAME COLLECTION SETTINGS**
+You can ungroup systems in [**Main Menu**](main-menu.md) **> Game collection settings**
 
 <figure><img src="https://i.imgur.com/XknAtyW.png" alt=""><figcaption></figcaption></figure>
 
-Navigate to **GROUPED SYSTEMS**:
+Navigate to **Grouped systems**:
 
 <figure><img src="https://i.imgur.com/XksMeTo.png" alt=""><figcaption></figcaption></figure>
 
@@ -130,7 +130,7 @@ The Gamelist can be displayed in multiple ways, this can be configured from the 
 
 <figure><img src="https://i.imgur.com/tBJzXzb.png" alt=""><figcaption></figcaption></figure>
 
-The value **AUTOMATIC** refers to the view style defined in the [MAIN MENU](main-menu.md#user-interface-settings) > USER INTERFACE SETTINGS > THEME CONFIGURATION.
+The value **Automatic** refers to the view style defined in the [MAIN MENU](main-menu.md#user-interface-settings) > USER INTERFACE SETTINGS > THEME CONFIGURATION.
 
 Press START
 

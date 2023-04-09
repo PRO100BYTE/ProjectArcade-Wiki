@@ -30,7 +30,7 @@ No BIOS required.
 
 ## Controls
 
-| Retrobat Button                                       | Mega Duck key |
+| ProjectArcade Button                                       | Mega Duck key |
 | ----------------------------------------------------- | ------------- |
 | START                                                 | START         |
 | SELECT                                                | SELECT        |

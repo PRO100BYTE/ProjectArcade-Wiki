@@ -1,10 +1,10 @@
 ---
-description: Configure Retrobat
+description: Configure ProjectArcade
 ---
 
 # Main Menu
 
-The **MAIN MENU** is accessed by pressing **START** (**ENTER** on the keyboard).
+The **Main menu** is accessed by pressing **START** (**ENTER** on the keyboard).
 
 <figure><img src="https://i.imgur.com/GO6iJJx.png" alt=""><figcaption></figcaption></figure>
 
@@ -23,10 +23,10 @@ From there you will have access to:
 
 | Section           | Setting                           | Description                                                                                 |
 | ----------------- | --------------------------------- | ------------------------------------------------------------------------------------------- |
-| Tools             | Update Gamelist                   | Retrobat will refresh gamelist by looking for added ROMs, new scraped media...              |
+| Tools             | Update Gamelist                   | ProjectArcade will refresh gamelist by looking for added ROMs, new scraped media...              |
 | Global Options    | Shader Set                        | Choose from a selection of predefined shaders to apply on your system.                      |
 | Global Options    | Decorations                       | Choose the default decoration for your system.                                              |
-| Global Options    | Video Mode                        | Define the Windows resolution and frequency when using Retrobat.                            |
+| Global Options    | Video Mode                        | Define the Windows resolution and frequency when using ProjectArcade.                            |
 | Global Options    | Game Aspect Ratio                 |                                                                                             |
 | Global Options    | Integer Scaling                   | Tick to activate Pixel Perfect emulation for compatible systems.                            |
 | Global Options    | Smooth Games                      | Tick to apply Bilinear Filtering globally                                                   |
@@ -65,18 +65,18 @@ You can also activate/deactivate screen icons (battery level, controller activit
 
 ### Sound Settings
 
-This menu item is used to manage Retrobat sounds :
+This menu item is used to manage ProjectArcade sounds :
 
 * Music volume
-* Activation and configuration of music in Retrobat interface
+* Activation and configuration of music in ProjectArcade interface
 * Activation of Navigation Sounds
 
 ### Game Collection Settings
 
 | Section                  | Description                                                     |
 | ------------------------ | --------------------------------------------------------------- |
-| Collections to display   | Select the Systems and Game Collections to display in Retrobat. |
-| Create Custom Collection | Add a Game Collection to Retrobat                               |
+| Collections to display   | Select the Systems and Game Collections to display in ProjectArcade. |
+| Create Custom Collection | Add a Game Collection to ProjectArcade                               |
 | Options                  | Several display options: sorting, show hidden systems...        |
 
 {% hint style="info" %}
@@ -96,10 +96,10 @@ More information on Scrapers is available in the [dedicated wiki section.](../ad
 This menu item is used to:
 
 * Download content such as Free Games, Bezels, Themes
-* Update Retrobat
+* Update ProjectArcade
 
 {% hint style="warning" %}
-Retrobat does not provide ROMs, only Games that are not licenced and free-to-use are available in the Download section.
+ProjectArcade does not provide ROMs, only Games that are not licenced and free-to-use are available in the Download section.
 {% endhint %}
 
 ### System Settings
@@ -107,7 +107,7 @@ Retrobat does not provide ROMs, only Games that are not licenced and free-to-use
 | Section  | Setting                      | Description                                             |
 | -------- | ---------------------------- | ------------------------------------------------------- |
 | System   | Information                  | Display system information                              |
-| System   | Language                     | Select Retrobat interface language                      |
+| System   | Language                     | Select ProjectArcade interface language                      |
 | System   | Show Clock in 12-Hour Format | Select whether the clock should be in 12h or 24h format |
 | System   | Power Saving Mode            | Choose Power Saving Mode                                |
 | System   | Screen Reader                | Enable or disable "Text to Speech"                      |

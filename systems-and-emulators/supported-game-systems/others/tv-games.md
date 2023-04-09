@@ -20,7 +20,7 @@ No BIOS required.
 
 TV Games controls are specific to each game, no standard mapping is possible, MAME handles this by defaulting 6 buttons and a stick.
 
-| Retrobat Button                                       | TV Games key |
+| ProjectArcade Button                                       | TV Games key |
 | ----------------------------------------------------- | ------------ |
 | START                                                 | START        |
 | SELECT                                                | COIN         |

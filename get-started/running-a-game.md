@@ -22,7 +22,7 @@ Once you have finished your gaming session, you can press HOTKEY + START to clos
 
 ### Choosing the Emulator
 
-Usually, Retrobat defaults to the best / more stable emulator for each system. However, if the default emulator does not work for you, you can change the Emulator for a whole system or for a specific game.
+Usually, ProjectArcade defaults to the best / more stable emulator for each system. However, if the default emulator does not work for you, you can change the Emulator for a whole system or for a specific game.
 
 {% hint style="info" %}
 The full list of available emulators per system can be found in the [Supported Game Systems](../supported-game-systems/) section of the wiki.
@@ -30,11 +30,11 @@ The full list of available emulators per system can be found in the [Supported G
 
 #### Changing emulator for the System
 
-From the Game View press **SELECT** and go to **ADVANCED SYSTEM OPTIONS**.
+From the Game View press **SELECT** and go to **Advanced system options**.
 
 <figure><img src="https://i.imgur.com/G6geY06.png" alt=""><figcaption></figcaption></figure>
 
-Choose **EMULATOR**.
+Choose **Emulator**.
 
 <figure><img src="https://i.imgur.com/ULXh2WR.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ Select the Emulator in the list.
 
 #### Changing emulator for a game
 
-From the [Game View](../navigation/system-view-and-game-view.md), highlight a game and long-press ![](<../.gitbook/assets/image (1) (2) (1).png>), choose **ADVANCED GAME OPTIONS**.
+From the [Game View](../navigation/system-view-and-game-view.md), highlight a game and long-press ![](<../.gitbook/assets/image (1) (2) (1).png>), choose **Advanced game options**.
 
 <figure><img src="https://i.imgur.com/QB1L9SQ.png" alt=""><figcaption></figcaption></figure>
 
@@ -53,5 +53,5 @@ Select the Emulator from the list.
 <figure><img src="https://i.imgur.com/nbO3jck.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**AUTO** corresponds to the Emulator selected in the system settings if specified for the system or to the first Emulator from the list if the System is also set to **AUTO**.
+**Auto** corresponds to the Emulator selected in the system settings if specified for the system or to the first Emulator from the list if the System is also set to **Auto**.
 {% endhint %}

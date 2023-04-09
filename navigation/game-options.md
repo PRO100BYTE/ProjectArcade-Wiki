@@ -16,4 +16,4 @@ From this menu, you will be able to:
 
 You have the ability to define at a game level the same options that you can define at System level.
 
-The **ADVANCED GAME OPTIONS** can be used when you need to define for a game a setting that differs from the [system settings](view-options.md#advanced-system-options).
+The **Advanced game options** can be used when you need to define for a game a setting that differs from the [system settings](view-options.md#advanced-system-options).

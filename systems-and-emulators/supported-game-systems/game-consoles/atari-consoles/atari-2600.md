@@ -20,7 +20,7 @@ No BIOS required for ATARI 2600.
 
 ## Controls
 
-| Retrobat Button                                          | Atari 2600 key                  |
+| ProjectArcade Button                                          | Atari 2600 key                  |
 | -------------------------------------------------------- | ------------------------------- |
 | START                                                    | Game reset (on console)         |
 | SELECT                                                   | Game select (on console)        |

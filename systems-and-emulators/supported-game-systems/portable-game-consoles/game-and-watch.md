@@ -22,7 +22,7 @@ No BIOS required for Game & Watch games.
 
 The controls are usually unique to each LCD game.
 
-| RetroBat key                                                                           | Game & Watch key |
+| ProjectArcade key                                                                           | Game & Watch key |
 | -------------------------------------------------------------------------------------- | ---------------- |
 | START                                                                                  | START            |
 | SELECT                                                                                 | SELECT           |
@@ -126,4 +126,4 @@ Place the artwork in the `\bios\mame\artwork`folder, files must have exactly the
 
 <figure><img src="https://i.imgur.com/H39e9W9.png" alt=""><figcaption></figcaption></figure>
 
-Then, in Retrobat, go to the **Game & Watch** system and [change the emulator for the game](../../../get-started/running-a-game.md#choosing-the-emulator).
+Then, in ProjectArcade, go to the **Game & Watch** system and [change the emulator for the game](../../../get-started/running-a-game.md#choosing-the-emulator).

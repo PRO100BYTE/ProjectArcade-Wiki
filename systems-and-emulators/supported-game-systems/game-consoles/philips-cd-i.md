@@ -65,7 +65,7 @@ cdibios.zip
 
 ## Controls
 
-| Retrobat Button                                       | CD-i key   |
+| ProjectArcade Button                                       | CD-i key   |
 | ----------------------------------------------------- | ---------- |
 | START                                                 | START      |
 | SELECT                                                | SELECT     |

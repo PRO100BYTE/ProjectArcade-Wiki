@@ -23,7 +23,7 @@ No BIOS required for Model 3.
 
 ## Controls
 
-Model3 controls are game-specific, RetroBat is provided with a default configuration that is explained hereafter for each game.
+Model3 controls are game-specific, ProjectArcade is provided with a default configuration that is explained hereafter for each game.
 
 {% hint style="warning" %}
 For 2 players, it is mandatory that the 2 controllers use the same technology, based on the controller of the player 1.
@@ -42,7 +42,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Daytona 2, Scud Race / Sega Super GT, Scud Race Plus / Sega Super GT Plus
 
-| Retrobat button                                                                           | Game control                                                     |
+| ProjectArcade button                                                                           | Game control                                                     |
 | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Left stick                                                                                | Steering                                                         |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | VR2 (blue)                                                       |
@@ -57,7 +57,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Le Mans 24
 
-| Retrobat button                                                                           | Game control |
+| ProjectArcade button                                                                           | Game control |
 | ----------------------------------------------------------------------------------------- | ------------ |
 | Left stick                                                                                | Steering     |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | VR2 (blue)   |
@@ -71,7 +71,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Dirt Devils
 
-| Retrobat button                                                                           | Game control |
+| ProjectArcade button                                                                           | Game control |
 | ----------------------------------------------------------------------------------------- | ------------ |
 | Left stick                                                                                | Steering     |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | Handbrake    |
@@ -83,7 +83,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Emergency Call Ambulance
 
-| Retrobat button                                                                           | Game control |
+| ProjectArcade button                                                                           | Game control |
 | ----------------------------------------------------------------------------------------- | ------------ |
 | Left stick                                                                                | Steering     |
 | <img src="../../../../.gitbook/assets/image (3) (1) (2).png" alt="" data-size="original"> | View Change  |
@@ -94,7 +94,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Harley Davidson LA Riders
 
-| Retrobat button                                                                           | Game control |
+| ProjectArcade button                                                                           | Game control |
 | ----------------------------------------------------------------------------------------- | ------------ |
 | Left stick                                                                                | Steering     |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | Rear brake   |
@@ -107,7 +107,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Fighting Vipers 2
 
-| Retrobat button                                                                           | Game control |
+| ProjectArcade button                                                                           | Game control |
 | ----------------------------------------------------------------------------------------- | ------------ |
 | Left stick, D-PAD                                                                         | Move         |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | Guard        |
@@ -116,7 +116,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Get Bass: Sega Bass Fishing
 
-| Retrobat button                                                                       | Game control      |
+| ProjectArcade button                                                                       | Game control      |
 | ------------------------------------------------------------------------------------- | ----------------- |
 | Left stick                                                                            | Fishing rod       |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                             | Lure menu / start |
@@ -126,7 +126,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### LA Machine Guns, The Ocean Hunter
 
-| Retrobat key       | Game control  |
+| ProjectArcade key       | Game control  |
 | ------------------ | ------------- |
 | KEY 1              | P1 Start      |
 | KEY 2              | P2 Start      |
@@ -137,7 +137,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### The Lost World
 
-| Retrobat key       | Game control |
+| ProjectArcade key       | Game control |
 | ------------------ | ------------ |
 | KEY 1              | P1 Start     |
 | KEY 2              | P2 Start     |
@@ -148,14 +148,14 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Magical Truck Adventure
 
-| Retrobat button                                           | Game control         |
+| ProjectArcade button                                           | Game control         |
 | --------------------------------------------------------- | -------------------- |
 | Left stick                                                | Lever Up/Down        |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>) | Pedal / Jump / Dodge |
 
 ### Ski Champ
 
-| Retrobat button                                                                       | Game control   |
+| ProjectArcade button                                                                       | Game control   |
 | ------------------------------------------------------------------------------------- | -------------- |
 | Left stick                                                                            | Turn           |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                             | Red            |
@@ -167,7 +167,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Spikeout, Spikeout Final Edition
 
-| Retrobat button                                                                           | Game control   |
+| ProjectArcade button                                                                           | Game control   |
 | ----------------------------------------------------------------------------------------- | -------------- |
 | Left stick                                                                                | Move           |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | Beat           |
@@ -178,7 +178,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Sega Rally 2
 
-| Retrobat button                                                                           | Game control                                                     |
+| ProjectArcade button                                                                           | Game control                                                     |
 | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Left stick                                                                                | Steering                                                         |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | Handbrake                                                        |
@@ -191,7 +191,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Star Wars Trilogy Arcade
 
-| Retrobat key       | Game control |
+| ProjectArcade key       | Game control |
 | ------------------ | ------------ |
 | KEY 1              | P1 Start     |
 | KEY 2              | P2 Start     |
@@ -202,7 +202,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Virtua Fighter 3, Virtua Fighter 3 Team Battle
 
-| Retrobat button                                                                           | Game control |
+| ProjectArcade button                                                                           | Game control |
 | ----------------------------------------------------------------------------------------- | ------------ |
 | Left stick, D-PAD                                                                         | Move         |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | Guard        |
@@ -212,7 +212,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Virtual On 2
 
-| Retrobat button                                                                           | Game control |
+| ProjectArcade button                                                                           | Game control |
 | ----------------------------------------------------------------------------------------- | ------------ |
 | Left stick                                                                                | Move         |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                                 | Crouch       |
@@ -227,7 +227,7 @@ This means that if the player 1 uses a XBOX controller, player 2 will also need 
 
 ### Virtua Striker 2
 
-| Retrobat button                                                                       | Game control |
+| ProjectArcade button                                                                       | Game control |
 | ------------------------------------------------------------------------------------- | ------------ |
 | Left stick                                                                            | Move         |
 | ![A](<../../../../.gitbook/assets/image (1) (2) (1).png>)                             | Long pass    |

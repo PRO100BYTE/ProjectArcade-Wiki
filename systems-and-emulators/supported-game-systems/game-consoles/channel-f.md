@@ -24,7 +24,7 @@ Game Console - Lifespan: 1976 - 1983
 
 ## Controls
 
-| Retrobat Button                                       | Channel F key                                                                     |
+| ProjectArcade Button                                       | Channel F key                                                                     |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------- |
 | START                                                 | Show/Hide Console Overlay                                                         |
 | SELECT                                                | Controller Swap                                                                   |

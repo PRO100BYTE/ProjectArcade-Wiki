@@ -42,7 +42,7 @@ Game Console - Lifespan: 2000 - 2013
 
 ### Logic for BIOS search
 
-RetroBat will search BIOS to use with the following logic:
+ProjectArcade will search BIOS to use with the following logic:
 
 1. Search for existing BIOS in folder `\bios\pcsx2\bios`, use first BIOS found in this folder
 2. If no BIOS found, search for BIOS in `\bios` folder, use the first BIOS found in this folder
@@ -53,14 +53,14 @@ This means that if you want to use a dedicated BIOS file instead of standard _SC
 ## Controls
 
 {% hint style="info" %}
-The following controllers can be autoconfigured from Retrobat to PCSX2:
+The following controllers can be autoconfigured from ProjectArcade to PCSX2:
 
 * XInput controllers
 * Dualshock & DualSense controllers
 * Nintendo Switch Pro controller
 {% endhint %}
 
-| RetroBat key                                                                              | Playstation 2 key  |
+| ProjectArcade key                                                                              | Playstation 2 key  |
 | ----------------------------------------------------------------------------------------- | ------------------ |
 | START                                                                                     | START              |
 | SELECT / BACK                                                                             | SELECT             |
@@ -102,7 +102,7 @@ To get the code of the game, you can launch the game a first time directly from 
 
 <figure><img src="https://i.imgur.com/WtewREp.png" alt=""><figcaption></figcaption></figure>
 
-Once the texure pack in the right folder, set Retrobat to load custom textures, this is achieved from the **VISUAL RENDERING** menu in the [Advanced System Options](../../../../navigation/view-options.md#advanced-system-options) or in the [Advanced Game Options](../../../../navigation/game-options.md#advanced-game-options) menu :
+Once the texure pack in the right folder, set ProjectArcade to load custom textures, this is achieved from the **VISUAL RENDERING** menu in the [Advanced System Options](../../../../navigation/view-options.md#advanced-system-options) or in the [Advanced Game Options](../../../../navigation/game-options.md#advanced-game-options) menu :
 
 <figure><img src="https://i.imgur.com/kMCqWFr.png" alt=""><figcaption></figcaption></figure>
 

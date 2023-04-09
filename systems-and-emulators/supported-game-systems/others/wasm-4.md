@@ -23,7 +23,7 @@ No BIOS required.
 
 ## Controls
 
-| Retrobat Button                                       | WASM-4 key |
+| ProjectArcade Button                                  | WASM-4 key |
 | ----------------------------------------------------- | ---------- |
 | START                                                 | ENTER      |
 | SELECT                                                |            |

@@ -30,7 +30,7 @@ Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../
 
 
 
-| Retrobat Button                                          | PC98 key          |
+| ProjectArcade Button                                          | PC98 key          |
 | -------------------------------------------------------- | ----------------- |
 | START                                                    | RETURN            |
 | SELECT                                                   | ESCAPE            |

@@ -34,7 +34,7 @@ Portable Game Console - Lifespan: 2004- 2011
 Stylus movement can be simulated with mouse or with right analog stick (if the feature is enabled).
 {% endhint %}
 
-| RetroBat key                                                                              | Nintendo DS key                                         |
+| ProjectArcade key                                                                              | Nintendo DS key                                         |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | START                                                                                     | START                                                   |
 | SELECT / BACK                                                                             | SELECT                                                  |

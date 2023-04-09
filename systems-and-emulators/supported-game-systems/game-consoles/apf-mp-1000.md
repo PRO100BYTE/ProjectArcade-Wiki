@@ -32,7 +32,7 @@ apfm1000.zip
 
 ## Controls
 
-| Retrobat Button                                       | APF-M1000 key |
+| ProjectArcade Button                                       | APF-M1000 key |
 | ----------------------------------------------------- | ------------- |
 | START                                                 | 0             |
 | SELECT                                                | 9             |

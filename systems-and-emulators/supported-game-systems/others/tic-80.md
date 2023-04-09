@@ -25,7 +25,7 @@ No BIOS required.
 
 ## Controls
 
-| Retrobat Button                                       | TIC-80 key  |
+| ProjectArcade Button                                       | TIC-80 key  |
 | ----------------------------------------------------- | ----------- |
 | START                                                 |             |
 | SELECT                                                |             |

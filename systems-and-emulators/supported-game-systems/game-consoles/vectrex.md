@@ -20,7 +20,7 @@ No BIOS required.
 
 ## Controls
 
-| RetroBat key                                                                           | Vectrex key |
+| ProjectArcade key                                                                           | Vectrex key |
 | -------------------------------------------------------------------------------------- | ----------- |
 | START                                                                                  |             |
 | SELECT                                                                                 |             |

@@ -14,7 +14,7 @@ A few systems need the bios files to be placed in subfolders. Refer to the indiv
 
 ### Missing BIOS check
 
-From the [GAME SETTINGS](../navigation/main-menu.md#game-settings) in the [MAIN MENU](../navigation/main-menu.md), you have the possibility to perform a check for missing BIOS:
+From the [Game settings](../navigation/main-menu.md#game-settings) in the [MAIN MENU](../navigation/main-menu.md), you have the possibility to perform a check for missing BIOS:
 
 <figure><img src="https://i.imgur.com/wXO2Ier.png" alt=""><figcaption></figcaption></figure>
 

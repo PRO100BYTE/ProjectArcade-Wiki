@@ -38,10 +38,10 @@ Vita3K auto-detects connected controllers, there is no configuration required.
 
 ### Installation & first setup
 
-Use Retrobat Menu to download Vita3k or download the latest build of Vita3K emulator on the vita3k website : [https://vita3k.org/#download](https://vita3k.org/#download)
+Use ProjectArcade Menu to download Vita3k or download the latest build of Vita3K emulator on the vita3k website : [https://vita3k.org/#download](https://vita3k.org/#download)
 
 {% hint style="warning" %}
-Do not run directly a game without installing from RetroBat menu first, as you will not be able to install firmware files.
+Do not run directly a game without installing from ProjectArcade menu first, as you will not be able to install firmware files.
 {% endhint %}
 
 <figure><img src="https://i.imgur.com/k9c9vpN.png" alt=""><figcaption></figcaption></figure>
@@ -50,7 +50,7 @@ Upon first startup, the emulator will need to be setup, first step is to select 
 
 <figure><img src="https://i.imgur.com/UiqGo28.png" alt=""><figcaption></figcaption></figure>
 
-**Very important step**, set the pref-path to the `\emulators\vita3k` folder of your RetroBat installation:
+**Very important step**, set the pref-path to the `\emulators\vita3k` folder of your ProjectArcade installation:
 
 <figure><img src="https://i.imgur.com/e5JxlMn.png" alt=""><figcaption></figcaption></figure>
 
@@ -82,12 +82,12 @@ Vita3K currently supports .pkg, NoNpDrm, FAGDec, or manually decrypted games.&#x
 2. The game is in your roms\psvita folder and is not yet installed in vita3k emulator
 
 {% hint style="info" %}
-Games are installed in the `emulators\vita3k\ux0\app` folder of your RetroBat installation.
+Games are installed in the `emulators\vita3k\ux0\app` folder of your ProjectArcade installation.
 {% endhint %}
 
 #### Case 1 : game is already installed in vita3k
 
-Create a .m3u file in the `\roms\psvita` folder of your RetroBat installation with game name:
+Create a .m3u file in the `\roms\psvita` folder of your ProjectArcade installation with game name:
 
 <figure><img src="https://i.imgur.com/tfILs19.png" alt=""><figcaption></figcaption></figure>
 
@@ -103,7 +103,7 @@ The title ID can be retrieved by running directly the Vita3k emulator.
 
 #### Case 2 : game is in your roms folder and not yet installed in the emulator
 
-RetroBat will automatically take care of the installation when you run the game for the first time, provided that the games are in the correct format.
+ProjectArcade will automatically take care of the installation when you run the game for the first time, provided that the games are in the correct format.
 
 
 
@@ -126,7 +126,7 @@ If you are using a .vpk file, just be sure that the file is correctly named with
 Street fighter [PCSE00005].vpk
 ```
 
-When running the game for the first time, Retrobat will automatically install it inside the emulator, wait until the operation finishes (this might take some time):
+When running the game for the first time, ProjectArcade will automatically install it inside the emulator, wait until the operation finishes (this might take some time):
 
 <figure><img src="https://i.imgur.com/bYSh81f.png" alt=""><figcaption></figcaption></figure>
 

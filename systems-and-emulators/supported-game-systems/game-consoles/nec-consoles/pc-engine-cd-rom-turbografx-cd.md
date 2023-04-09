@@ -25,7 +25,7 @@ Game Console extension - Released: 1988
 
 ## Controls
 
-| Retrobat Button                                          | PC Engine key |
+| ProjectArcade Button                                          | PC Engine key |
 | -------------------------------------------------------- | ------------- |
 | START                                                    | START         |
 | SELECT                                                   | SELECT        |

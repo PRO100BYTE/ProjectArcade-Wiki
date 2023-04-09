@@ -50,14 +50,14 @@ Firmware will appear at the bottom of the emulator:
 ## Controls
 
 {% hint style="info" %}
-The following controllers can be autoconfigured from Retrobat to RPCS3:
+The following controllers can be autoconfigured from ProjectArcade to RPCS3:
 
 * XInput controllers
 * Dualshock & DualSense controllers
 * Nintendo Switch Pro controller
 {% endhint %}
 
-| RetroBat key                                                                              | Playstation 3 key  |
+| ProjectArcade key                                                                              | Playstation 3 key  |
 | ----------------------------------------------------------------------------------------- | ------------------ |
 | START                                                                                     | START              |
 | SELECT / BACK                                                                             | SELECT             |

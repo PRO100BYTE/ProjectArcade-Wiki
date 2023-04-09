@@ -25,7 +25,7 @@ Game Console - Lifespan: 1994 - 1998
 
 ## Controls
 
-| Retrobat Button                                          | PC-FX key |
+| ProjectArcade Button                                          | PC-FX key |
 | -------------------------------------------------------- | --------- |
 | START                                                    | RUN       |
 | SELECT                                                   | SELECT    |

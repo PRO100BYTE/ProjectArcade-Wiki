@@ -22,7 +22,7 @@ No BIOS required.
 
 Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
 
-| Retrobat Button                                          | C64 key                                                                                                           |
+| ProjectArcade Button                                          | C64 key                                                                                                           |
 | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | START                                                    | Return (keyboard)                                                                                                 |
 | SELECT                                                   | <p>Short press: Virtual keyboard </p><p>Longer press: Statusbar on/off </p><p>Even longer press: Fast Forward</p> |

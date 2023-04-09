@@ -23,7 +23,7 @@ No BIOS required.
 
 ## Controls
 
-| Retrobat Button                                       | Mugen key |
+| ProjectArcade Button                                       | Mugen key |
 | ----------------------------------------------------- | --------- |
 | START                                                 | RETURN    |
 | SELECT                                                |           |

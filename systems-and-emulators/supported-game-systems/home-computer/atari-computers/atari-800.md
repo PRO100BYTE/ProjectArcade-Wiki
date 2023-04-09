@@ -27,7 +27,7 @@ Computer - Lifespan: 1979 - 1992
 
 Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
 
-| Retrobat Button                                          | Atari 800 key           |
+| ProjectArcade Button                                          | Atari 800 key           |
 | -------------------------------------------------------- | ----------------------- |
 | START                                                    | START key               |
 | SELECT                                                   | SELECT key              |

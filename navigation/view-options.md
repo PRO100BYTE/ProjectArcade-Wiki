@@ -4,7 +4,7 @@ description: Configure Game View and apply specific settings for the system
 
 # View Options
 
-**VIEW OPTIONS** is accessible from the [**Game View**](system-view-and-game-view.md#game-view) when pressing **SELECT**.
+**View options** is accessible from the [**Game View**](system-view-and-game-view.md#game-view) when pressing **SELECT**.
 
 <figure><img src="https://i.imgur.com/3LAdx3p.png" alt=""><figcaption><p>View Options menu</p></figcaption></figure>
 
@@ -30,4 +30,4 @@ This Menu gives access to several options.
 
 * Choose Emulator
 * General Settings (Shaders, decoration, Aspect Ratio, Vsync, Controller autoconfiguration...)
-* Advanced Settings (Specific settings per core/emulator that are injected to the Emulator by Retrobat)
+* Advanced Settings (Specific settings per core/emulator that are injected to the Emulator by ProjectArcade)

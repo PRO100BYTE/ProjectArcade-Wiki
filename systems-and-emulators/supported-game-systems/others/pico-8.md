@@ -13,7 +13,7 @@ Fantasy Console - Released : 2015
 {% embed url="https://www.lexaloffle.com/pico-8.php" %}
 
 {% hint style="warning" %}
-PICO-8 is a paid software, it is not provided by the Retrobat team.
+PICO-8 is a paid software, it is not provided by the #TheDayG0ne.
 {% endhint %}
 
 ## Information
@@ -29,7 +29,7 @@ No BIOS required.
 
 ## Controls
 
-| Retrobat Button                                       | Pico-8 key |
+| ProjectArcade Button                                       | Pico-8 key |
 | ----------------------------------------------------- | ---------- |
 | START                                                 | ENTER      |
 | SELECT                                                |            |

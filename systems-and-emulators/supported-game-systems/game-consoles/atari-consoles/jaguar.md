@@ -37,9 +37,9 @@ Game Console - Lifespan: 1993 - 1996
 Controls have to be configured directly in the emulator.
 
 {% hint style="warning" %}
-You need to use the _**Configure BigPEmu.bat**_ file to run BigPEmu or run it from within RetroBat for the configuration to be correctly saved.
+You need to use the _**Configure BigPEmu.bat**_ file to run BigPEmu or run it from within ProjectArcade for the configuration to be correctly saved.
 
-All configuration done by launching directly _**BigPEmu.exe**_ will be ignored by RetroBat.
+All configuration done by launching directly _**BigPEmu.exe**_ will be ignored by ProjectArcade.
 {% endhint %}
 
 ## Specific system information

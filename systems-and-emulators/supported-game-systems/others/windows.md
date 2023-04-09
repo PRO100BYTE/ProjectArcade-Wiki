@@ -12,7 +12,7 @@ Computer Operating System - Lifespan: 1992 - now
 
 ## Information
 
-Windows games don't need any emulator to function, they can be run natively from the RetroBat interface.
+Windows games don't need any emulator to function, they can be run natively from the ProjectArcade interface.
 
 
 

@@ -25,7 +25,7 @@ No specific BIOS requirements to play Xbox 360 games on xenia / xenia-canary emu
 
 Xenia does not offer any manual configuration of controls.
 
-From Retrobat System Options you can select the type of controller to use, select:
+From ProjectArcade System Options you can select the type of controller to use, select:
 
 * XBOX CONTROLLER for Xbox Controllers post Xbox 360 models
 * KEYBOARD for Keyboard
@@ -41,7 +41,7 @@ For example for _Banjo Tooie_ game, the filepath is the following:
 
 **\Banjo Tooie\58410955\000D0000\ABB9CAB336175357D09F2D922735D23C62F90DDD**
 
-For Retrobat to be able to launch the game, you must create a **\*.m3u** file to be placed at the root of the `\roms\xbox360` folder.
+For ProjectArcade to be able to launch the game, you must create a **\*.m3u** file to be placed at the root of the `\roms\xbox360` folder.
 
 <figure><img src="https://i.imgur.com/tfzS8Rt.png" alt=""><figcaption><p>Example for Banjo Tooie</p></figcaption></figure>
 

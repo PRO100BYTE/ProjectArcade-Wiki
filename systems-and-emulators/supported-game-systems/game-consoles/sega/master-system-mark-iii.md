@@ -21,7 +21,7 @@ There is no BIOS files needed to run games.
 
 ## Controls
 
-| RetroBat key                                              | Master system key             |
+| ProjectArcade key                                              | Master system key             |
 | --------------------------------------------------------- | ----------------------------- |
 | SELECT / BACK                                             | PAUSE (button on the console) |
 | D-PAD, left stick                                         | D-PAD                         |

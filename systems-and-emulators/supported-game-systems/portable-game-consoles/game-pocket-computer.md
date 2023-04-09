@@ -37,7 +37,7 @@ gamepock.zip
 
 ## Controls
 
-| Retrobat Button                                       | Game Pocket key |
+| ProjectArcade Button                                       | Game Pocket key |
 | ----------------------------------------------------- | --------------- |
 | START                                                 | START           |
 | SELECT                                                | SELECT          |

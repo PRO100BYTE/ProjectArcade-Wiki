@@ -24,7 +24,7 @@ Game console - Lifespan: 1986 - 1992
 
 ## Controls
 
-| Retrobat Button                                          | Atari 7800 key |
+| ProjectArcade Button                                          | Atari 7800 key |
 | -------------------------------------------------------- | -------------- |
 | START                                                    |                |
 | SELECT                                                   |                |

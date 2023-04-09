@@ -20,7 +20,7 @@ There is no BIOS files needed to run games.
 
 ## Controls
 
-| RetroBat key                                                                              | Game Gear key |
+| ProjectArcade key                                                                              | Game Gear key |
 | ----------------------------------------------------------------------------------------- | ------------- |
 | START                                                                                     | START         |
 | SELECT                                                                                    |               |

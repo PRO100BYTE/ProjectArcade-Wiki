@@ -26,7 +26,7 @@ Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../
 
 Here is the default mapping.
 
-| Retrobat Button                                          | Atari ST key                                        |
+| ProjectArcade Button                                          | Atari ST key                                        |
 | -------------------------------------------------------- | --------------------------------------------------- |
 | START                                                    | Show/Hide virtual keyboard                          |
 | SELECT                                                   | Toggle Mouse/Joy mode                               |

@@ -27,7 +27,7 @@ Game Console - Release date: 1991
 
 The system uses the standard RetroArch mapping
 
-| Retrobat Button                                          | Amiga CDTV key     |
+| ProjectArcade Button                                          | Amiga CDTV key     |
 | -------------------------------------------------------- | ------------------ |
 | START                                                    | START              |
 | SELECT                                                   | SELECT             |

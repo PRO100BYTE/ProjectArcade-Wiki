@@ -25,7 +25,7 @@ Game Console - Lifespan: 1987 - 1994
 
 ## Controls
 
-| Retrobat Button                                          | PC Engine key |
+| ProjectArcade Button                                          | PC Engine key |
 | -------------------------------------------------------- | ------------- |
 | START                                                    | START / RUN   |
 | SELECT                                                   | SELECT        |

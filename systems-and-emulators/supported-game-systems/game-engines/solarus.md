@@ -19,7 +19,7 @@ No BIOS required.
 
 ## Controls
 
-| Retrobat Button                                       | Solarus key |
+| ProjectArcade Button                                       | Solarus key |
 | ----------------------------------------------------- | ----------- |
 | START                                                 | START       |
 | SELECT                                                | SELECT      |

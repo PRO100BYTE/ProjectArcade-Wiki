@@ -52,7 +52,7 @@ Example filenames with the expansion "F-Zero X Expansion Kit":
 * Run expansion with\
   `F-Zero X - Expansion Kit (Japan).n64`
 
-Now from RetroBat:&#x20;
+Now from ProjectArcade:&#x20;
 
 * [Select the right BIOS](nintendo-64-disk-drive.md#bios-selection)
 * Launch the .n64 (or .z64) file, not the .ndd file:
@@ -68,9 +68,9 @@ Example with the full game "SimCity 64":
 
 * Rename `SimCity 64 (Japan).ndd` to `SimCity 64 (Japan).n64.ndd`
 * Pick any n64 roms file and rename it `SimCity 64 (Japan).n64`
-* Then run `SimCity 64 (Japan).n64` in RetroBat.
+* Then run `SimCity 64 (Japan).n64` in ProjectArcade.
 
-Now from RetroBat:&#x20;
+Now from ProjectArcade:&#x20;
 
 * [Select the right BIOS](nintendo-64-disk-drive.md#bios-selection)
 * Launch the .n64 (or .z64) file, not the .ndd file:
@@ -87,12 +87,12 @@ If you notice that the running game is the one from the "fake .n64 or .z64 rom u
 
 Parallel\_n64 core can run directly .ndd files, however it is only possible to run full N64DD games as of now (such as SimCity64), game extensions will not run with this core.
 
-Just place the full .ndd game in your `\roms\n64dd` folder, select the parallel\_n64 core in RetroBat and the [right BIOS](nintendo-64-disk-drive.md#bios-selection), and launch the .ndd game.
+Just place the full .ndd game in your `\roms\n64dd` folder, select the parallel\_n64 core in ProjectArcade and the [right BIOS](nintendo-64-disk-drive.md#bios-selection), and launch the .ndd game.
 
 ### BIOS selection
 
 Althrough only commercialized in Japan, US games are available for the n64dd system, as well as prototypes using a specific "dev" BIOS.
 
-The right BIOS can be selected directly in Retrobat Games Options menu, per game.
+The right BIOS can be selected directly in ProjectArcade Games Options menu, per game.
 
 <figure><img src="https://i.imgur.com/htqkK3Q.png" alt=""><figcaption><p>Advanced System Options / Emulation / BIOS</p></figcaption></figure>

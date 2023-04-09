@@ -2,7 +2,7 @@
 
 <figure><img src="https://raw.githubusercontent.com/fabricecaruso/es-theme-carbon/52ff37c9e265587d006945a2ba695b5a962b3a3d/art/logos/ports.svg" alt=""><figcaption></figcaption></figure>
 
-Libretro does not only provide emulator cores but also some games, this page is intended to list the libretro games available within Retrobat.
+Libretro does not only provide emulator cores but also some games, this page is intended to list the libretro games available within ProjectArcade.
 
 ## Information
 
@@ -31,7 +31,7 @@ A libretro port of the 2048 game.
 
 #### Controls
 
-| Retrobat Button | 2048 key |
+| ProjectArcade Button | 2048 key |
 | --------------- | -------- |
 | START           | START    |
 | SELECT          | PAUSE    |
@@ -45,7 +45,7 @@ A simple Minecraft clone written in C using modern OpenGL (shaders).
 
 #### Controls
 
-| Retrobat Button                                       | craft key            |
+| ProjectArcade Button                                       | craft key            |
 | ----------------------------------------------------- | -------------------- |
 | SELECT                                                | Zoom OUT             |
 | D-PAD - UP                                            | Move forwards        |
@@ -71,7 +71,7 @@ Mr.Boom is an up to 8 player Bomberman clone ported to the libretro API.
 
 #### Controls
 
-| Retrobat Button                                       | mrboom key                           |
+| ProjectArcade Button                                       | mrboom key                           |
 | ----------------------------------------------------- | ------------------------------------ |
 | SELECT                                                | Add a bomberman bot                  |
 | START                                                 | Start game                           |

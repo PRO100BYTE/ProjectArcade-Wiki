@@ -26,7 +26,7 @@ Game Console - Lifespan: 1993 - 1994
 
 ## Controls
 
-| Retrobat Button                                          | Amiga CD32 key |
+| ProjectArcade Button                                          | Amiga CD32 key |
 | -------------------------------------------------------- | -------------- |
 | START                                                    | PLAY / PAUSE   |
 | D-PAD                                                    | D-PAD          |

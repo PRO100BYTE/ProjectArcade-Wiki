@@ -45,14 +45,14 @@ Install firmware directly in the emulator
 ## Controls
 
 {% hint style="info" %}
-The following controllers can be autoconfigured from Retrobat to Yuzu/Ryujinx:
+The following controllers can be autoconfigured from ProjectArcade to Yuzu/Ryujinx:
 
 * XInput controllers
 * Dualshock & DualSense controllers
 * Nintendo Switch Pro controller
 {% endhint %}
 
-| RetroBat key                                                                              | Switch Key  |
+| ProjectArcade key                                                                              | Switch Key  |
 | ----------------------------------------------------------------------------------------- | ----------- |
 | START                                                                                     | +           |
 | SELECT / BACK                                                                             | -           |
@@ -95,9 +95,9 @@ Yuzu will be installed by default in the appdata folder on your computer:
 
 <figure><img src="https://i.imgur.com/P8Pi1Ut.png" alt=""><figcaption></figcaption></figure>
 
-The content of the `yuzu-windows-msvc` folder must be copied to the `\emulators\yuzu` directory in your Retrobat folder.
+The content of the `yuzu-windows-msvc` folder must be copied to the `\emulators\yuzu` directory in your ProjectArcade folder.
 
-For Early Access, copy the content of the `yuzu-windows-msvc-early-access` must be copied to the `\emulators\yuzu-early-access` directory in your Retrobat folder.
+For Early Access, copy the content of the `yuzu-windows-msvc-early-access` must be copied to the `\emulators\yuzu-early-access` directory in your ProjectArcade folder.
 
 <figure><img src="https://i.imgur.com/fq2gxNH.png" alt=""><figcaption></figcaption></figure>
 

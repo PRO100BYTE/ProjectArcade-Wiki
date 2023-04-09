@@ -41,7 +41,7 @@ CreatiVision games come with a decorative overlay that is slot into the rails of
 
 The layout would is unique to each game.
 
-| Retrobat Button                                          | CrVision key |
+| ProjectArcade Button                                          | CrVision key |
 | -------------------------------------------------------- | ------------ |
 | START                                                    |              |
 | SELECT                                                   | RESET        |

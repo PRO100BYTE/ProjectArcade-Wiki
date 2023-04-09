@@ -44,7 +44,7 @@ advision.zip
 
 ## Controls
 
-| Retrobat Button                                       | Adventure Vision key |
+| ProjectArcade Button                                       | Adventure Vision key |
 | ----------------------------------------------------- | -------------------- |
 | START                                                 | START                |
 | SELECT                                                | SELECT               |

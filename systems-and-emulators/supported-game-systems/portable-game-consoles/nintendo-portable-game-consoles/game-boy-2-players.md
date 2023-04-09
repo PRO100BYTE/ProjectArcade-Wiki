@@ -26,7 +26,7 @@ Same BIOS as Game Boy system.
 
 ## Controls
 
-| RetroBat key                                                                              | Game Boy key |
+| ProjectArcade key                                                                              | Game Boy key |
 | ----------------------------------------------------------------------------------------- | ------------ |
 | START                                                                                     | START        |
 | SELECT / BACK                                                                             | SELECT       |

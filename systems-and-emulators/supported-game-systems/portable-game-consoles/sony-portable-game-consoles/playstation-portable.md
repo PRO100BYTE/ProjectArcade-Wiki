@@ -41,7 +41,7 @@ DLCs for your games must be placed in `\saves\psp\PSP\GAME`
 
 Custom textures must be placed in your `\saves\psp\PSP\TEXTURES\"GAMEID"` folder.
 
-Then enable custom textures from within Retrobat:
+Then enable custom textures from within ProjectArcade:
 
 <figure><img src="https://i.imgur.com/ppkZ9bw.png" alt=""><figcaption></figcaption></figure>
 

@@ -31,7 +31,7 @@ gamate.zip
 
 ## Controls
 
-| RetroBat key                                                                           | Gamate key |
+| ProjectArcade key                                                                           | Gamate key |
 | -------------------------------------------------------------------------------------- | ---------- |
 | START                                                                                  | START      |
 | SELECT                                                                                 | SELECT     |

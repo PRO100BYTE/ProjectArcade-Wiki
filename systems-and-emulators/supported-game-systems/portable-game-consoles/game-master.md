@@ -37,7 +37,7 @@ gmaster.zip
 
 ## Controls
 
-| Retrobat Button                                       | Game Master key |
+| ProjectArcade Button                                       | Game Master key |
 | ----------------------------------------------------- | --------------- |
 | START                                                 | START           |
 | SELECT                                                | SELECT          |

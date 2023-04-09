@@ -21,7 +21,7 @@ No BIOS required.
 ## Controls
 
 {% hint style="info" %}
-The following controllers can be autoconfigured from RetroBat to citra standalone:
+The following controllers can be autoconfigured from ProjectArcade to citra standalone:
 
 * XInput controllers
 * Dualshock 4 and Dualsense controllers
@@ -34,7 +34,7 @@ The 3DS has a touchpad that is difficult to emulate, the best way to use it is w
 Libretro core can also be set to use the right joystick for the touchpad screen.
 {% endhint %}
 
-| RetroBat key                                                                              | 3DS key                            |
+| ProjectArcade key                                                                              | 3DS key                            |
 | ----------------------------------------------------------------------------------------- | ---------------------------------- |
 | START                                                                                     | START                              |
 | SELECT / BACK                                                                             | SELECT                             |

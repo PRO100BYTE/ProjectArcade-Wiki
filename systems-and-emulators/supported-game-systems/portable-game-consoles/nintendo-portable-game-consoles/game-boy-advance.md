@@ -28,7 +28,7 @@ Portable Game Console - Lifespan: 2001 - 2008
 
 ## Controls
 
-| RetroBat key                                                                              | Game Boy Advance key                 |
+| ProjectArcade key                                                                              | Game Boy Advance key                 |
 | ----------------------------------------------------------------------------------------- | ------------------------------------ |
 | START                                                                                     | START                                |
 | SELECT / BACK                                                                             | SELECT                               |

@@ -18,7 +18,7 @@ There is no BIOS files needed to run games.
 
 Same controls as Megadrive - Genesis.
 
-| RetroBat key                                                                              | Megadrive/Genesis key |
+| ProjectArcade key                                                                              | Megadrive/Genesis key |
 | ----------------------------------------------------------------------------------------- | --------------------- |
 | START                                                                                     | START                 |
 | SELECT / BACK                                                                             | SELECT                |

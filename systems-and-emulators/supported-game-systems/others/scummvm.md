@@ -102,7 +102,7 @@ The game is now added to SCUMMVM:
 The name inside the .scummvm file must match the short ID specified when adding the game in the emulator.
 {% endhint %}
 
-* In RetroBat, both versions will now be available
+* In ProjectArcade, both versions will now be available
 
 <figure><img src="https://i.imgur.com/OTcJf0h.png" alt=""><figcaption></figcaption></figure>
 

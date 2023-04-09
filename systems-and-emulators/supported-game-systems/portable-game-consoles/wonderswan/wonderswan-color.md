@@ -20,7 +20,7 @@ No BIOS required.
 
 ## Controls
 
-| RetroBat key                                                                              | WonderSwan key               |
+| ProjectArcade key                                                                              | WonderSwan key               |
 | ----------------------------------------------------------------------------------------- | ---------------------------- |
 | START                                                                                     | START                        |
 | SELECT / BACK                                                                             | Rotate screen + active D-Pad |

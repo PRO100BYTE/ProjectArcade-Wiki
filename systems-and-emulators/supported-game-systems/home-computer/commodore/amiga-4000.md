@@ -28,7 +28,7 @@ The amiga4000 rom folder is not created during installation. You can add it manu
 
 Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
 
-| Retrobat Button                                          | Amiga 4000 key                             |
+| ProjectArcade Button                                          | Amiga 4000 key                             |
 | -------------------------------------------------------- | ------------------------------------------ |
 | START                                                    |                                            |
 | SELECT                                                   | Toggle virtual keyboard / Toggle statusbar |

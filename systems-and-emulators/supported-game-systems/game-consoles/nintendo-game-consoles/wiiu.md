@@ -29,14 +29,14 @@ The Game keys can be dumped from your WiiU console, see [CEMU guide](https://wik
 ## Controls
 
 {% hint style="info" %}
-The following controllers can be autoconfigured from Retrobat to Cemu:
+The following controllers can be autoconfigured from ProjectArcade to Cemu:
 
 * XInput controllers
 * Dualshock & DualSense controllers
 * Nintendo Switch Pro controller
 {% endhint %}
 
-| RetroBat key                                                                              | WiiU Key    |
+| ProjectArcade key                                                                              | WiiU Key    |
 | ----------------------------------------------------------------------------------------- | ----------- |
 | START                                                                                     | +           |
 | SELECT / BACK                                                                             | -           |
@@ -76,13 +76,13 @@ This consists of a game folder with 3 subfolders
 
 <figure><img src="https://i.imgur.com/CIYaICX.png" alt=""><figcaption><p>Example of dumped Zelda game</p></figcaption></figure>
 
-There are 2 options to add these games in Retrobat
+There are 2 options to add these games in ProjectArcade
 
 #### Install the game in Cemu and use m3u file
 
 This method will simulate the installation of the game in the NAND of the WiiU.
 
-From the Retrobat Game View, open the CEMU emulator
+From the ProjectArcade Game View, open the CEMU emulator
 
 
 
@@ -114,7 +114,7 @@ For example for Zelda Breath of the Wild:
 
 <figure><img src="https://i.imgur.com/DjHV0Gt.png" alt=""><figcaption></figcaption></figure>
 
-The game will now be available in Retrobat for scraping and playing.
+The game will now be available in ProjectArcade for scraping and playing.
 
 #### Place the Game folder in the roms directory
 
@@ -124,9 +124,9 @@ Place the game folder in the `\roms\wiiu` folder
 
 <figure><img src="https://i.imgur.com/8BsrI9F.png" alt=""><figcaption></figcaption></figure>
 
-The game will now be available in Retrobat for scraping and playing.
+The game will now be available in ProjectArcade for scraping and playing.
 
-Retrobat will detect the **.rpx** file in the `\code` folder
+ProjectArcade will detect the **.rpx** file in the `\code` folder
 
 <figure><img src="https://i.imgur.com/iSQdk4o.png" alt=""><figcaption></figcaption></figure>
 
@@ -158,7 +158,7 @@ You should now see the Update or DLC information in the gamelist
 
 Cemu emulator uses Graphic Packs to enhance games graphics but also to fix bugs in some games.
 
-Graphic Packs are not managed automatically from RetroBat and need to be enabled in the emulator, once enabled, they will be used when launching the game from RetroBat.
+Graphic Packs are not managed automatically from ProjectArcade and need to be enabled in the emulator, once enabled, they will be used when launching the game from ProjectArcade.
 
 Proceed as follows to enable Graphic Packs.
 

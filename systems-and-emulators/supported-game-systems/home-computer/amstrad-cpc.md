@@ -32,7 +32,7 @@ Cap32 & crocods cores allow you to choose between the following controller types
 * KEYBOARD (Consider enabling Game Focus feature for keyboard games)
 * LIGHTGUN (cap32 only)
 
-| Retrobat Button                                       | Amstrad CPC key |
+| ProjectArcade Button                                       | Amstrad CPC key |
 | ----------------------------------------------------- | --------------- |
 | START                                                 | RETURN          |
 | SELECT                                                | SPARE           |
@@ -69,6 +69,6 @@ Create a .m3u file with any text editor and specify:\
 Commando (Europe).dsk
 ```
 
-With this file, RetroBat will inform the emulator to run the "Commando (Europe).dsk" file and to write the command line `RUN"COMMANDO.BIN`
+With this file, ProjectArcade will inform the emulator to run the "Commando (Europe).dsk" file and to write the command line `RUN"COMMANDO.BIN`
 
-Once the .m3u is created, you can run it from within RetroBat with the Cap32 core.
+Once the .m3u is created, you can run it from within ProjectArcade with the Cap32 core.

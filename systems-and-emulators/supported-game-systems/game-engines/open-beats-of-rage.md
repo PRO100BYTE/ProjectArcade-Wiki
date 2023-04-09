@@ -23,7 +23,7 @@ No BIOS required.
 
 ## Controls
 
-| Retrobat Button                                       | OpenBOR key |
+| ProjectArcade Button                                       | OpenBOR key |
 | ----------------------------------------------------- | ----------- |
 | START                                                 | START       |
 | SELECT                                                | ESC         |

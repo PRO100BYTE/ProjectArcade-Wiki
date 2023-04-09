@@ -19,7 +19,7 @@ No BIOS required.
 
 ## Controls
 
-| Retrobat Button                                       | Cannonball key  |
+| ProjectArcade Button                                       | Cannonball key  |
 | ----------------------------------------------------- | --------------- |
 | START                                                 | Start           |
 | SELECT                                                | Coin            |
@@ -41,7 +41,7 @@ No BIOS required.
 
 Cannonball requires a Rev. B outrun game rom from latest Mame romset.
 
-Uncompress the outrun.zip game rom directly in the `roms\cannonball` folder of your RetroBat installation and add an empty file named _**CannonBall.game**_ inside the same folder:
+Uncompress the outrun.zip game rom directly in the `roms\cannonball` folder of your ProjectArcade installation and add an empty file named _**CannonBall.game**_ inside the same folder:
 
 <figure><img src="https://i.imgur.com/vGBwlYm.png" alt=""><figcaption></figcaption></figure>
 

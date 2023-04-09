@@ -22,7 +22,7 @@ No BIOS required.
 
 Use Pad2Key for this system if you need specific mapping, see the [Pad2Key ](../../../../controllers/pad2key.md)section of this Wiki.
 
-| Retrobat Button                                          | C20 key                                    |
+| ProjectArcade Button                                          | C20 key                                    |
 | -------------------------------------------------------- | ------------------------------------------ |
 | START                                                    |                                            |
 | SELECT                                                   | Toggle virtual keyboard / Toggle statusbar |

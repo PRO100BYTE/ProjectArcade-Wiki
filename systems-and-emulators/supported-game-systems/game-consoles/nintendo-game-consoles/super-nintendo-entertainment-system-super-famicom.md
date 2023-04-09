@@ -29,7 +29,7 @@ There is no BIOS files needed to run games.
 
 ## Controls
 
-| RetroBat key                                                                              | Super Nintendo key |
+| ProjectArcade key                                                                              | Super Nintendo key |
 | ----------------------------------------------------------------------------------------- | ------------------ |
 | START                                                                                     | START              |
 | SELECT / BACK                                                                             | SELECT             |

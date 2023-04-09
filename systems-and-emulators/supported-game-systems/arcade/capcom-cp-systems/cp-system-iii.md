@@ -25,7 +25,7 @@ No BIOS necessary for CPS systems.
 
 ### Arcade stick mapping
 
-Mapping can be found in the [notice](http://retrobat.ovh/notice/notice.pdf).
+Mapping can be found in the [RetroBat notice](https://dl.projectarcade.ru/store/notice/notice.pdf).
 
 <figure><img src="https://i.imgur.com/kXBcdsB.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ For FBNEO and FBALPHA cores, 2 controller layouts are available:
 * CLASSIC
 * MODERN
 
-| Retrobat Button                                          | CLASSIC | MODERN |
+| ProjectArcade Button                                          | CLASSIC | MODERN |
 | -------------------------------------------------------- | ------- | ------ |
 | START                                                    | START   | START  |
 | SELECT                                                   | COIN    | COIN   |

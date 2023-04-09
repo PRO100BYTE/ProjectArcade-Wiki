@@ -55,7 +55,7 @@ roms\
 
 Some games have a per-game menu for accessing the machine's advanced configuration such as its dip switches, service mode and diagnostic input.
 
-To access the service menu for NAOMI games, you need first to enable the Service Mode from the RetroBat advanced menu (set it to YES):
+To access the service menu for NAOMI games, you need first to enable the Service Mode from the ProjectArcade advanced menu (set it to YES):
 
 <figure><img src="https://i.imgur.com/ztsYbF4.png" alt=""><figcaption></figcaption></figure>
 

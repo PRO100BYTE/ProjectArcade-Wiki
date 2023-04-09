@@ -27,7 +27,7 @@ Controls are similar to Gamecube mapping for Dolphin.
 
 You can create your own mapping directly in the dolphin-triforce emulator.
 
-| RetroBat key                                                                              | Triforce key             |
+| ProjectArcade key                                                                              | Triforce key             |
 | ----------------------------------------------------------------------------------------- | ------------------------ |
 | START                                                                                     | START                    |
 | D-PAD                                                                                     | D-PAD                    |
@@ -43,7 +43,7 @@ You can create your own mapping directly in the dolphin-triforce emulator.
 
 ## Specific system information
 
-Triforce emulation is not perfect, the Dolphin Triforce branch has not been updated for many years. RetroBat provide a dolphin-triforce emulator version to play Mario Kart GP2 very smoothly. You can also use the current dolphin emulators to play F-Zero AX with Gecko codes.
+Triforce emulation is not perfect, the Dolphin Triforce branch has not been updated for many years. ProjectArcade provide a dolphin-triforce emulator version to play Mario Kart GP2 very smoothly. You can also use the current dolphin emulators to play F-Zero AX with Gecko codes.
 
 ### Games compatibility
 

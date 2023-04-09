@@ -25,7 +25,7 @@ Game Console - Released : 1989
 
 ## Controls
 
-| Retrobat Button                                          | SuperGrafx key  |
+| ProjectArcade Button                                          | SuperGrafx key  |
 | -------------------------------------------------------- | --------------- |
 | START                                                    | RUN             |
 | SELECT                                                   | SELECT          |

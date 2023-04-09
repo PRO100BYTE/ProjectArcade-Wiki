@@ -44,7 +44,7 @@ For FBNEO and FBALPHA cores, 2 controller layouts are available:
 * CLASSIC
 * MODERN
 
-| Retrobat Button                                          | CLASSIC    | MODERN     |
+| ProjectArcade Button                                          | CLASSIC    | MODERN     |
 | -------------------------------------------------------- | ---------- | ---------- |
 | START                                                    | START      | START      |
 | SELECT                                                   | SELECT     | SELECT     |

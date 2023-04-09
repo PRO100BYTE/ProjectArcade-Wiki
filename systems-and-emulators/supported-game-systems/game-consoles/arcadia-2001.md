@@ -23,7 +23,7 @@ Game Console - Lifespan: 1982 - 1984
 
 ## Controls
 
-| Retrobat Button                                       | Arcadia 2001 key |
+| ProjectArcade Button                                       | Arcadia 2001 key |
 | ----------------------------------------------------- | ---------------- |
 | START                                                 | 0                |
 | SELECT                                                | 9                |

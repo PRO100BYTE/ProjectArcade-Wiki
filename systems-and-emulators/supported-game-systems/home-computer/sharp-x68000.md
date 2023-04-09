@@ -28,7 +28,7 @@ Home Computer - Lifespan: 1987 - 1993
 
 Use [pad2key ](../../../controllers/pad2key.md)for this system.
 
-| Retrobat Button                                       | X68000 key |
+| ProjectArcade Button                                       | X68000 key |
 | ----------------------------------------------------- | ---------- |
 | START                                                 | JOY\_TRG6  |
 | SELECT                                                | JOY\_TRG7  |
