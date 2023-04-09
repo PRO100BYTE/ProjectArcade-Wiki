@@ -5,7 +5,7 @@ coverY: 0
 
 # Welcome!
 
-This is the official ProjectArcade wiki page containing all the necessary documentation
+### This is the official ProjectArcade wiki page containing all the necessary documentation
 
 ProjectArcade is a shell created specifically for all fans of retrogaming. The software is intended for those who want to plunge into the nostalgic atmosphere of old games and enjoy their gameplay, but do not want to spend a lot of time and effort setting up emulators and looking for the right ROMs. This is a handy shell developed on the basis of open-source projects, namely RetroBat, EmulationStation and EmulatorLauncher, which allows you to launch any game from your retro collection in a few clicks.
 
@@ -51,13 +51,14 @@ If the information you are looking for does not exist (yet), you can contact the
 &#x20;
 
 
+#
 
-At the moment, the wiki page is only available in English, but it is planned to add a Russian-language wiki as well.
+### At the moment, the wiki page is only available in English, but it is planned to add a Russian-language wiki as well.
 
 I sincerely thank the RetroBat team for providing documentation for my project. This Wiki is also compatible with RetroBat
 
 
-Thank you!
+### Thank you!
 
 
 
