@@ -31,7 +31,7 @@ Once the Sign up finalized, go to Settings and retrieve you API key.
 
 <figure><img src="https://i.imgur.com/7Oe139R.png" alt=""><figcaption><p>Retrieve API key at the bottom</p></figcaption></figure>
 
-Now, enter the URL + API key in Retrobat AI GAME TRANSLATION settings and confirm.
+Now, enter the URL + API key in ProjectArcade AI GAME TRANSLATION settings and confirm.
 
 Use the following format:
 

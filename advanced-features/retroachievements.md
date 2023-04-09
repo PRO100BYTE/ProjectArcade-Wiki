@@ -1,11 +1,11 @@
-# Retroachievements
+# RetroAchievements
 
 RetroAchievements is a system that allows you to earn achievements on retro games. This is very similar to Steam successes.
 
-In order to subscribe to the service, visit the RetroAchievements website [HERE](https://retroachievements.org/) and create an account.
+In order to subscribe to the service, visit the RetroAchievements website [here](https://retroachievements.org/) and create an account.
 
 {% hint style="info" %}
-Retroachievements in Retrobat are only available for a predefined list of libretro cores that you can find [HERE](https://docs.libretro.com/guides/retroachievements/#cores-compatibility), and for PS2 with the use of PCSX2 in 1.7QT version.
+Retroachievements in ProjectArcade are only available for a predefined list of libretro cores that you can find [here](https://docs.libretro.com/guides/retroachievements/#cores-compatibility), and for PS2 with the use of PCSX2 in 1.7QT version.
 {% endhint %}
 
 ## Enabling RetroAchievements
@@ -14,7 +14,7 @@ Enter the [**Main Menu**](../navigation/main-menu.md) and select [**Game Setting
 
 <figure><img src="https://i.imgur.com/BaBOnEZ.png" alt=""><figcaption></figcaption></figure>
 
-Select **RETROACHIEVEMENT SETTINGS**
+Select **RetroAchievement SETTINGS**
 
 <figure><img src="https://i.imgur.com/rkPSoxl.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ Enable the service
 
 <figure><img src="https://i.imgur.com/DeHj7lu.png" alt=""><figcaption></figcaption></figure>
 
-Enter your Retroachievement login and password
+Enter your RetroAchievement login and password
 
 <figure><img src="https://i.imgur.com/FRZYYHN.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ You can rerun the indexing process from this menu or let the system perform the 
 
 <figure><img src="https://i.imgur.com/t90a8qr.png" alt=""><figcaption></figcaption></figure>
 
-## Games Retroachievements information
+## Games RetroAchievement information
 
 Games that support RetroAchievements have a small trophy icon ![](<../.gitbook/assets/image (2).png>) in the Game View
 
@@ -48,7 +48,7 @@ To display the list of RetroAchievements available for a game, select it and hol
 
 ## RetroAchievement user Information
 
-To display your RetroAchievements global status, from the [**MAIN MENU**](../navigation/main-menu.md) **** select RETROACHIEVEMENTS
+To display your RetroAchievements global status, from the [**Main menu**](../navigation/main-menu.md) **** select RetroAchievements
 
 <figure><img src="https://i.imgur.com/sPPAnUU.png" alt=""><figcaption></figcaption></figure>
 

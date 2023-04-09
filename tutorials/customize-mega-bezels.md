@@ -1,6 +1,6 @@
 # Customize Mega-Bezels
 
-RetroBat allows you to download Duimon's Mega-Bezel pack (you can find more information in the [Decorations & Bezels](../advanced-features/decorations-and-bezels.md#mega-bezels) section of the wiki).
+ProjectArcade allows you to download Duimon's Mega-Bezel pack (you can find more information in the [Decorations & Bezels](../advanced-features/decorations-and-bezels.md#mega-bezels) section of the wiki).
 
 This page will give you details and one example showing you how it is possible to customize the Mega-Bezels.
 
@@ -8,9 +8,9 @@ This page will give you details and one example showing you how it is possible t
 
 First, you need to understand where the files we will be modifying are located.
 
-### RetroBat files
+### ProjectArcade files
 
-Files used by the RetroBat interface to display the list of available Mega-Bezels are located in the `system\shaders\configs` folder of your RetroBat installation.
+Files used by the ProjectArcade interface to display the list of available Mega-Bezels are located in the `system\shaders\configs` folder of your ProjectArcade installation.
 
 <figure><img src="https://i.imgur.com/7SEscUi.png" alt=""><figcaption></figcaption></figure>
 
@@ -23,11 +23,11 @@ Each subfolder contains a `rendering-defaults.yml` file specifying:
 
 ### Retroarch
 
-Files that are used in Retroarch to enable Mega-Bezels are stored in the `emulators\retroarch\shaders\shaders_slang\Duimon-Mega-Bezel\` folder of your RetroBat installation.
+Files that are used in Retroarch to enable Mega-Bezels are stored in the `emulators\retroarch\shaders\shaders_slang\Duimon-Mega-Bezel\` folder of your ProjectArcade installation.
 
 <figure><img src="https://i.imgur.com/fgpBn8a.png" alt=""><figcaption></figcaption></figure>
 
-## Adding a new Mega-Bezel Preset entry to Retrobat
+## Adding a new Mega-Bezel Preset entry to ProjectArcade
 
 ### Step 1 : preset customization
 
@@ -54,15 +54,15 @@ Next, we will open both files with a text editor and add the instruction to flip
 
 <figure><img src="https://i.imgur.com/HiXJkq0.png" alt=""><figcaption><p>The lines in this file are the instructions given to RetroArch for displaying correctly the effects.</p></figcaption></figure>
 
-### Adding the new preset to the RetroBat menu
+### Adding the new preset to the ProjectArcade menu
 
-Go to the folder `system\shaders\configs` and copy one of the existing subfolders (in our example "mega-bezel-advanced-night"), rename the new folder "mega-bezel-advanced-night-VFlip" (this is the name that will appear in the RetroBat menu :
+Go to the folder `system\shaders\configs` and copy one of the existing subfolders (in our example "mega-bezel-advanced-night"), rename the new folder "mega-bezel-advanced-night-VFlip" (this is the name that will appear in the ProjectArcade menu :
 
 <figure><img src="https://i.imgur.com/AxSDahs.jpg" alt=""><figcaption></figcaption></figure>
 
 Inside the modified folder, open the file named "rendering-defaults.yml" (This is the file telling RetroArch what preset to use for a system).
 
-The first line corresponds to the system, as known by RetroBat (use the official system name that can be found in the `\emulationstation.emulationstation\es_systems.cfg` file).
+The first line corresponds to the system, as known by ProjectArcade (use the official system name that can be found in the `\emulationstation.emulationstation\es_systems.cfg` file).
 
 The second line indicates the preset to use for this system by pointing to the .slangp file (relative path is used here) :&#x20;
 
@@ -76,7 +76,7 @@ Save, and close the file.
 
 
 
-In RetroBat, the new entry "mega-bezel-advanced-night-vflip" is now available in the shaders section.
+In ProjectArcade, the new entry "mega-bezel-advanced-night-vflip" is now available in the shaders section.
 
 <figure><img src="https://i.imgur.com/r6R365E.png" alt=""><figcaption></figcaption></figure>
 

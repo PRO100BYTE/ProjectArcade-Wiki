@@ -4,7 +4,7 @@ Most of the TVs and computer screens in the 80s and 90s were 4:3. When you run t
 
 The remaining space on the left and right side of the game can be filled with decorations (bezels).
 
-Retrobat offers 3 types of decorations:
+ProjectArcade offers 3 types of decorations:
 
 * Decorations
 * The Bezel Project
@@ -142,4 +142,4 @@ Here are some examples of Mega Bezel:
 
 ### Customize Mega-bezels
 
-Refer to [section "Customize Mega-bezels"](../tutorials/customize-mega-bezels.md#adding-a-new-mega-bezel-preset-entry-to-retrobat)
+Refer to [section "Customize Mega-bezels"](../tutorials/customize-mega-bezels.md#adding-a-new-mega-bezel-preset-entry-to-projectarcade)

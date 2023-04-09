@@ -2,7 +2,7 @@
 
 Scraping is used for downloading metadata and media files (images, videos, maps, pad-to-key settings and manuals) for games in your collection.
 
-Retrobat supports 4 scraping services:
+ProjectArcade supports 4 scraping services:
 
 * ScreenScraper (default service) : credentials are required ([screenscraper website](https://www.screenscraper.fr/))
 * [TheGamesDB](https://thegamesdb.net/)

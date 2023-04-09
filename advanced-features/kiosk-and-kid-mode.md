@@ -1,6 +1,6 @@
 # Kiosk and Kid mode
 
-Kiosk mode and Kid mode can be activated from the [**MAIN MENU > SYSTEM SETTINGS**](../navigation/main-menu.md#system-settings) menu
+Kiosk mode and Kid mode can be activated from the [**Main menu > System settings**](../navigation/main-menu.md#system-settings) menu
 
 <figure><img src="https://i.imgur.com/Pfrkc0D.png" alt=""><figcaption></figcaption></figure>
 
@@ -25,7 +25,7 @@ The game options menu is disabled as is the ability to flag and unflag games as 
 You can disable the kiosk or kid mode by entering the following pad sentence :\
 A A A B A ![](<../.gitbook/assets/image (4) (1).png>) ![](<../.gitbook/assets/image (4) (1).png>) ![](<../.gitbook/assets/image (4) (1).png>) ![](<../.gitbook/assets/image (1) (2) (1).png>) ![](<../.gitbook/assets/image (4) (1).png>)
 
-Alternatively, you can edit the `retrobat.ini` file located in your retrobat folder and set the value "**InterfaceMode**" to 0:
+Alternatively, you can edit the `projectarcade.ini` file located in your ProjectArcade folder and set the value "**InterfaceMode**" to 0:
 
 <figure><img src="https://i.imgur.com/ofDCIxE.png" alt=""><figcaption></figcaption></figure>
 

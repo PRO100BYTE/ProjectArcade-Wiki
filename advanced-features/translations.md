@@ -1,20 +1,20 @@
 # Translations
 
-If you want to help us translate RetroBat in your own language, this page is for you !
+If you want to help us translate ProjectArcade in your own language, this page is for you !
 
 
 
 ## Concepts
 
-RetroBat uses 2 different components for translations: EmulationStation & RetroBat specific features.
+ProjectArcade uses 2 different components for translations: EmulationStation & ProjectArcade specific features.
 
 
 
 ### EmulationStation
 
-The EmulationStation part of the translations concerns the main interface of RetroBat, which includes all screens and menus that you see when configuring a joystick, when configuring the system from the main menu (START button) or when configuring core RetroArch core features.
+The EmulationStation part of the translations concerns the main interface of ProjectArcade, which includes all screens and menus that you see when configuring a joystick, when configuring the system from the main menu (START button) or when configuring core RetroArch core features.
 
-RetroBat shares the same fork of EmulationStation (f.Caruso fork) with Batocera.
+ProjectArcade shares the same fork of EmulationStation (f.Caruso fork) with Batocera.
 
 In order not to mess up with translation, both project teams have agreed that the translation of core EmulationStation fonctionnalities will be managed by the Batocera project.
 
@@ -22,9 +22,9 @@ You can find all details on how to help here: [https://wiki.batocera.org/help\_w
 
 
 
-### RetroBat specific features
+### ProjectArcade specific features
 
-Though RetroBat & Batocera projects share the same EmulationStation front-end, features and configuration of emulators are totally different between both projects. Which is why there are a huge number of menu items which are specific to each front-end.
+Though ProjectArcade & Batocera projects share the same EmulationStation front-end, features and configuration of emulators are totally different between both projects. Which is why there are a huge number of menu items which are specific to each front-end.
 
 The features are generally the ones that you see when pressing the SELECT button and going into a system / game configuration:
 
@@ -34,7 +34,7 @@ The same way that you can help with EmulationStation translations, you can help 
 
 ### Location of translation files
 
-Current status of RetroBat features translations can be found in the following directory of your RetroBat installation: `\system\templates\emulationstation\es_features.locale`
+Current status of ProjectArcade features translations can be found in the following directory of your ProjectArcade installation: `\system\templates\emulationstation\es_features.locale`
 
 This folder contains:
 
@@ -49,7 +49,7 @@ You might notice that some text to be translated exists in the template file but
 
 ### How to help us ?
 
-In order to help us translate RetroBat, you will obviously need to select the language that you want to work with.
+In order to help us translate ProjectArcade, you will obviously need to select the language that you want to work with.
 
 Once done, take your favorite text editor and open the `es-features.po` file of the language you are working on:
 
@@ -58,7 +58,7 @@ Once done, take your favorite text editor and open the `es-features.po` file of 
 The original text that needs translation is the one located after **msgid**, the translated text has to be entered after **msgstr**.
 
 {% hint style="warning" %}
-Ensure that you always keep the strings between brackets " ", else it will crash RetroBat.
+Ensure that you always keep the strings between brackets " ", else it will crash ProjectArcade.
 {% endhint %}
 
 
@@ -67,9 +67,9 @@ Ensure that you always keep the strings between brackets " ", else it will crash
 
 In order to update an existing language file with the new strings to be translated, you need to proceed like this:
 
-* Copy the **es-features.po** file from your language into the following directory of your RetroBat installation : `\emulationstation\.emulationstation\es_features.locale`
+* Copy the **es-features.po** file from your language into the following directory of your ProjectArcade installation : `\emulationstation\.emulationstation\es_features.locale`
 * Rename the file to `es-features-template.po`
-* Open a cmd window in the `\emulationstation` folder of your RetroBat installation and type the following command line: `emulatorlauncher -updatepo`
+* Open a cmd window in the `\emulationstation` folder of your ProjectArcade installation and type the following command line: `emulatorlauncher -updatepo`
 
 <figure><img src="https://i.imgur.com/6DReUC3.png" alt=""><figcaption></figcaption></figure>
 
@@ -81,14 +81,14 @@ You should receive a message that the template has been updated:
 
 ### How to test your translated file ?
 
-Before sharing the translation with the RetroBat team, ensure that the translation is working properly and is not crashing EmulationStation.
+Before sharing the translation with the ProjectArcade team, ensure that the translation is working properly and is not crashing EmulationStation.
 
-To do this, copy the **es-features.po** file in the language folder to test in the `\emulationstation\.emulationstation\es_features.locale` folder of your RetroBat installation.
+To do this, copy the **es-features.po** file in the language folder to test in the `\emulationstation\.emulationstation\es_features.locale` folder of your ProjectArcade installation.
 
-You can now run RetroBat, switch to the target language, and check all translations.
+You can now run ProjectArcade, switch to the target language, and check all translations.
 
 ### How to submit your translated file ?
 
-Once the translation file has been thoroughly tested, you can submit the file to the RetroBat team through our Discord channel or through our forum.
+Once the translation file has been thoroughly tested, you can submit the file to the #TheDayG0ne or RetroBat Team through our Discord channel or through our forum.
 
-The links can be found at the top of this wiki or on our [website](https://www.retrobat.org).
+The links can be found at the top of this wiki or on RetroBat [website](https://www.retrobat.org).
