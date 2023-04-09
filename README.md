@@ -20,7 +20,7 @@ You can use the navigation menu located in the left column to quickly find the i
 
 #TheDayG0ne with the RetroBat team is also including some specific [Tutorials](broken-reference) that will be enhanced by the developer based on common support requirements.
 
-
+# 
 
 If the information you are looking for does not exist (yet), you can contact the developer through the following channels:
 
