@@ -25,13 +25,13 @@ You can use the navigation menu located in the left column to quickly find the i
 If the information you are looking for does not exist (yet), you can contact the developer through the following channels:
 
 
-* ProjectArcade:
+### ProjectArcade:
 * [Website](https://projectarcade.ru)
 * [VK](https://vk.com/projectarcade)
 * [Telegram](https://t.me/projectarcade_support)
 * [GitHub](https://github.com/ProjectArcade)
 
-* #TheDayG0ne:
+### #TheDayG0ne:
 * [Website](https://thedayg0ne.ru)
 * [VK](https://vk.com/thedayg0ne)
 * [Telegram](https://t.me/thedayg0ne)
@@ -40,7 +40,7 @@ If the information you are looking for does not exist (yet), you can contact the
 * [Code Writers](https://cowr.org/members/thedayg0ne.2/)
 * E-mail: me@thedayg0ne.ru
 
-* RetroBat Team:
+### RetroBat Team:
 * [Official Website](https://www.retrobat.org/)
 * [Facebook](https://social.retrobat.org/facebook)
 * [RetroBat Forum](https://social.retrobat.org/forum)
