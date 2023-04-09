@@ -53,7 +53,7 @@ If the information you are looking for does not exist (yet), you can contact the
 
 #
 
-### At the moment, the wiki page is only available in English, but it is planned to add a Russian-language wiki as well.
+At the moment, the wiki page is only available in English, but it is planned to add a Russian-language wiki as well.
 
 I sincerely thank the RetroBat team for providing documentation for my project. This Wiki is also compatible with RetroBat
 
