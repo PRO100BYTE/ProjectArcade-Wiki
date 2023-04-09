@@ -2,13 +2,13 @@
 
 ## Updates
 
-Retrobat has an automatic updater system included.
+ProjectArcade has an automatic updater system included.
 
 When a new version is available, a message like the one below appears on the top of the screen:
 
 <figure><img src="https://i.imgur.com/GONxicR.png" alt=""><figcaption></figcaption></figure>
 
-To perform the update, open the [main menu](../navigation/main-menu.md#updates-and-downloads) and select **UPDATES & DOWNLOADS**
+To perform the update, open the [main menu](../navigation/main-menu.md#updates-and-downloads) and select **Updates & downloads**
 
 <figure><img src="https://i.imgur.com/9dSyFON.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ Once the update is finished, reboot the system to apply
 
 <figure><img src="https://i.imgur.com/sQcNE2s.png" alt=""><figcaption></figcaption></figure>
 
-When starting again Retrobat, it will finalize the update
+When starting again ProjectArcade, it will finalize the update
 
 <figure><img src="https://i.imgur.com/1xkI2bR.png" alt=""><figcaption></figcaption></figure>
 
@@ -40,13 +40,13 @@ It is possible to check the current version from the main menu > system settings
 
 The integrated Content Downloader can be used to install a wide variety of freely distributed games, themes, and additional Medias.
 
-The Downloads menu is available from the  [MAIN MENU](../navigation/main-menu.md), navigate to **UPDATES & DOWNLOADS**
+The Downloads menu is available from the  [MAIN MENU](../navigation/main-menu.md), navigate to **Updates & downloads**
 
 <figure><img src="https://i.imgur.com/9dSyFON.png" alt=""><figcaption></figcaption></figure>
 
 ### Download content
 
-Select **CONTENT DOWNLOADER**
+Select **Content downloader**
 
 <figure><img src="https://i.imgur.com/1G75KFw.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@ A message appears and the content is downloaded in the right folder
 
 ### Download Themes
 
-Select **THEMES** to access the **THEME DOWNLOADER**
+Select **Themes** to access the **Theme downloader**
 
 <figure><img src="https://i.imgur.com/2LMbbKp.png" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +76,7 @@ A progress bar appears in the top right corner
 
 <figure><img src="https://i.imgur.com/5BEGno3.png" alt=""><figcaption></figcaption></figure>
 
-When the download is finished, you can switch to the new Theme from the [USER INTERFACE SETTINGS](../navigation/main-menu.md#user-interface-settings) in the MAIN MENU
+When the download is finished, you can switch to the new Theme from the [User interface settings](../navigation/main-menu.md#user-interface-settings) in the MAIN MENU
 
 <figure><img src="https://i.imgur.com/b09I4a0.png" alt=""><figcaption></figcaption></figure>
 

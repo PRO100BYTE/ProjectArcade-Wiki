@@ -53,7 +53,7 @@ In order to help us translate ProjectArcade, you will obviously need to select t
 
 Once done, take your favorite text editor and open the `es-features.po` file of the language you are working on:
 
-<figure><img src="https://i.imgur.com/JZOBu99.png" alt=""><figcaption><p>In the example above, we have translated "VIDEO MODE" to "MODE VIDÉO" in french language.</p></figcaption></figure>
+<figure><img src="https://i.imgur.com/JZOBu99.png" alt=""><figcaption><p>In the example above, RetroBat team have translated "VIDEO MODE" to "MODE VIDÉO" in french language.</p></figcaption></figure>
 
 The original text that needs translation is the one located after **msgid**, the translated text has to be entered after **msgstr**.
 

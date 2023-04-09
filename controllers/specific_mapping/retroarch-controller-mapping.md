@@ -6,7 +6,7 @@ Here is how to proceed.
 
 
 
-Open RetroBat and launch the game for which you require a specific remapping.
+Open ProjectArcade and launch the game for which you require a specific remapping.
 
 Once in the game, press SELECT + ![](<../../.gitbook/assets/image (1) (2) (1).png>) buttons simultaneously to open the RetroArch menu, and select **Quick Menu**:
 
@@ -20,14 +20,14 @@ From there, proceed with the required remapping:
 
 <figure><img src="https://i.imgur.com/k78mZCY.png" alt=""><figcaption></figcaption></figure>
 
-In this example, i have mapped the RetroPad left analog up input to the key defined for A in RetroBat (which is W on my keyboard):
+In this example, i have mapped the RetroPad left analog up input to the key defined for A in ProjectArcade (which is W on my keyboard):
 
 <figure><img src="https://i.imgur.com/yTnHq8K.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Note that you can only remap the keys that have been passed by RetroBat to retroArch based on your controller.
+Note that you can only remap the keys that have been passed by ProjectArcade to retroArch based on your controller.
 
-Should you need to add new keys that were not configured in RetroBat, you would need to also change the mapping in the general settings of RetroArch.
+Should you need to add new keys that were not configured in ProjectArcade, you would need to also change the mapping in the general settings of RetroArch.
 
 ([click here to find this option](retroarch-controller-mapping.md#retroarch-mapping-principle))
 {% endhint %}
@@ -44,7 +44,7 @@ In the next submenu, you can either:
 Once saved, the new remap will now be used next time you run the game (or a game from the same folder).
 
 {% hint style="info" %}
-You cannot use the option to save for the core, as this would automatically be erased by RetroBat upon next launch.
+You cannot use the option to save for the core, as this would automatically be erased by ProjectArcade upon next launch.
 {% endhint %}
 
 <figure><img src="https://i.imgur.com/4WyqBdQ.png" alt=""><figcaption></figcaption></figure>
@@ -53,7 +53,7 @@ You cannot use the option to save for the core, as this would automatically be e
 
 ### Location of the the remap file
 
-Remap files are stored in the following folder of your RetroBat installation:
+Remap files are stored in the following folder of your ProjectArcade installation:
 
 `\emulators\retroarch\config\remaps\<core shortname>\`
 
@@ -72,7 +72,7 @@ RetroArch has a 2-step approach with controllers mapping:
 * Step 1: mapping of your physical gamepad with RetroArch "RetroPad"
 * Step 2: mapping of the Retropad with the original console or computer game controller
 
-The guide in this page only treats about the second step, as it is assumed that RetroBat is passing all your physical gamepad buttons to RetroArch (this should always be the case if you have correctly configured your controller in RetroBat).
+The guide in this page only treats about the second step, as it is assumed that ProjectArcade is passing all your physical gamepad buttons to RetroArch (this should always be the case if you have correctly configured your controller in ProjectArcade).
 
 
 
@@ -81,6 +81,6 @@ The mapping done in Step 1 can be found in the following section of RetroArch co
 <figure><img src="https://i.imgur.com/rdZbOuz.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Changing the Step 1 mapping is not recommended, moreover the mapping would automatically be overwritten by RetroBat upon next launch of RetroArch.
+Changing the Step 1 mapping is not recommended, moreover the mapping would automatically be overwritten by ProjectArcade upon next launch of RetroArch.
 {% endhint %}
 

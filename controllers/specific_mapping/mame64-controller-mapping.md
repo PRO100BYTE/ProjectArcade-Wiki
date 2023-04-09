@@ -6,7 +6,7 @@ When using another type of controllers (or to simply use a specific mapping for 
 
 ## STEP 1 : Create controller mapping file in MAME
 
-Run _mame.exe_, the executable is located in the `emulators\mame` folder of your RetroBat installation.
+Run _mame.exe_, the executable is located in the `emulators\mame` folder of your ProjectArcade installation.
 
 Click on "General Settings":
 
@@ -60,7 +60,7 @@ Rename the file to one of the following values:
 * custom3.cfg
 * custom4.cfg
 
-Move the file in the `\saves\mame\ctrlr` folder of your RetroBat installation:
+Move the file in the `\saves\mame\ctrlr` folder of your ProjectArcade installation:
 
 <figure><img src="https://i.imgur.com/15wt2XH.png" alt=""><figcaption></figcaption></figure>
 
@@ -74,7 +74,7 @@ Additional information on the file structure can be found here:
 [https://docs.mamedev.org/advanced/ctrlr\_config.html](https://docs.mamedev.org/advanced/ctrlr\_config.html)
 {% endhint %}
 
-## STEP 3 : Select the controller profile in RetroBat
+## STEP 3 : Select the controller profile in ProjectArcade
 
 From the MAME [Game view](../../navigation/system-view-and-game-view.md#game-view), press SELECT to open the [View Options](../../navigation/view-options.md) menu and select "ADVANCED SYSTEM OPTIONS"
 
@@ -87,7 +87,7 @@ Ensure the MAME64 emulator is set as EMULATOR and navigate to the CONTROLS subme
 Select the "CONTROLLER PROFILE" option and choose the profile used for the file that you have created:
 
 {% hint style="info" %}
-RetroBat provides 4 custom profiles as well as the ability to use a per\_game cfg file.
+ProjectArcade provides 4 custom profiles as well as the ability to use a per\_game cfg file.
 
 When using "per\_game", the name of the file must match the name of the game file (without extension), for example name the file "wjammers.cfg" for the game file "wjammers.zip" (WindJammers).
 {% endhint %}
@@ -95,5 +95,5 @@ When using "per\_game", the name of the file must match the name of the game fil
 <figure><img src="https://i.imgur.com/ltkfOQt.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Do not hesitate to share the files you have created with the RetroBat team if you have a general profile that can be shared with other users.
+Do not hesitate to share the files you have created with the #TheDayG0ne or RetroBat team if you have a general profile that can be shared with other users.
 {% endhint %}

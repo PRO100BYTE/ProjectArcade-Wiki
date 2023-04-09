@@ -10,7 +10,7 @@ From the Game View press SELECT to open the [View Options](../navigation/view-op
 
 <figure><img src="https://i.imgur.com/jR79O63.png" alt=""><figcaption></figcaption></figure>
 
-Select **EDIT PADTOKEY PROFILE.**
+Select **Edit PadToKey profile.**
 
 <figure><img src="https://i.imgur.com/8QE8iwu.png" alt=""><figcaption></figcaption></figure>
 

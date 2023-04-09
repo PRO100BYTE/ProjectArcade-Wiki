@@ -7,7 +7,7 @@ Wired Gamepads are plug'n'play, once the Gamepad is connected you should be able
 Bluetooth Gamepads must be paired with your system in Windows Bluetooth settings.
 
 {% hint style="info" %}
-You can test you Gamepad [HERE](https://gamepad-tester.com/) to check if it is detected in Windows
+You can test you Gamepad here: [Gamepad tester](https://gamepad-tester.com/) to check if it is detected in Windows
 {% endhint %}
 
 ### 8bitdo controllers <a href="#bitdo_controllers" id="bitdo_controllers"></a>

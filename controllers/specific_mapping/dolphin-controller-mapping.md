@@ -14,7 +14,7 @@ All information can be found on the Dolphin wiki:
 
 ### STEP 1: Creation of a profile in Dolphin
 
-Run _Dolphin.exe_, the executable is located in the `emulators\dolphin-emu` folder of your RetroBat installation.
+Run _Dolphin.exe_, the executable is located in the `emulators\dolphin-emu` folder of your ProjectArcade installation.
 
 Click on the "Controllers" icon in the taskbar, then select "Configure" (pick the right system depending on the game, this works both for Gamecube and Wii)
 
@@ -62,6 +62,6 @@ The profile saved will be used everytime the game is launched.
 
 #### NB: location of profile files
 
-Saved profile files are stored in the `\emulators\dolphin-emu\User\Config\Profiles` folder of your RetroBat installation:
+Saved profile files are stored in the `\emulators\dolphin-emu\User\Config\Profiles` folder of your ProjectArcade installation:
 
 <figure><img src="https://i.imgur.com/r72aRwA.png" alt=""><figcaption></figcaption></figure>

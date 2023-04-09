@@ -96,6 +96,6 @@ For RetroArch cores, you can create your own Game Controller mapping for the gam
 In case of issue with controls, follow the steps below:&#x20;
 
 1. Try to reconfigure your controller mapping
-2. Use the [Batgui ](../advanced-features/batgui.md#change-sdl-library-version-and-reset-controller-configuration)tool to reset the controller configuration
-3. Use the [batgui ](../advanced-features/batgui.md#change-sdl-library-version-and-reset-controller-configuration)tool to try different SDL version
+2. Use the [BatGUI ](../advanced-features/batgui.md#change-sdl-library-version-and-reset-controller-configuration)tool to reset the controller configuration
+3. Use the [BatGUI ](../advanced-features/batgui.md#change-sdl-library-version-and-reset-controller-configuration)tool to try different SDL version
 4. Contact the #TheDayG0ne
