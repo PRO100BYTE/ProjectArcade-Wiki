@@ -1,7 +1,3 @@
----
-description: Building your library
----
-
 # Adding a game
 
 Adding games is a straight-forward process.
@@ -13,14 +9,14 @@ Game ROMs need to be placed in the `\roms\<system>\` folder, they will be detect
 <figure><img src="https://i.imgur.com/ayxotgu.png" alt=""><figcaption><p>Adding a snes rom</p></figcaption></figure>
 
 {% hint style="info" %}
-More information about ROM format per system in the [Supported Games Systems](../supported-game-systems/) section of the wiki.
+More information about ROM format per system in the Supported Games Systems section of the wiki.
 {% endhint %}
 
 The System will be visible upon restart or upon refreshing the gamelist.
 
 <figure><img src="https://i.imgur.com/8yZ6Dll.png" alt=""><figcaption><p>System View - Super Nintendo system appeared</p></figcaption></figure>
 
-The game will be visible in the [Game View](../navigation/system-view-and-game-view.md#game-view).
+The game will be visible in the Game View.
 
 <figure><img src="https://i.imgur.com/pvbhxaB.png" alt=""><figcaption><p>Game View</p></figcaption></figure>
 
@@ -41,11 +37,11 @@ Configure **Scraper settings** and select **Scrape now**.
 <figure><img src="https://i.imgur.com/7k0IPHA.png" alt=""><figcaption><p>Choose settings and scrape</p></figcaption></figure>
 
 {% hint style="info" %}
-For ScreenScraper, you need to create an account on the [Screenscraper ](https://www.screenscraper.fr/)website.&#x20;
+For ScreenScraper, you need to create an account on the [Screenscraper ](https://www.screenscraper.fr/)website.
 
 Then enter your credentials (User/Password) in the **Scraper settings** menu.
 
-More details in [Scaping & Metadata](../advanced-features/scraping-and-metadata.md) section of the wiki.
+More details in Scaping & Metadata section of the wiki.
 {% endhint %}
 
 The following message appears on the top right of the screen, the scraping is in progress.
@@ -54,7 +50,7 @@ The following message appears on the top right of the screen, the scraping is in
 
 Once the scraping finalized, refresh the gamelist.
 
-Press **START** (**ENTER** on keyboard) to display the [Main menu](../navigation/main-menu.md) and select **Game settings.**
+Press **START** (**ENTER** on keyboard) to display the Main menu and select **Game settings.**
 
 <figure><img src="https://i.imgur.com/X1sumBQ.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,19 +58,19 @@ Choose **Update gamelist.**
 
 <figure><img src="https://i.imgur.com/B9beKo6.png" alt=""><figcaption></figcaption></figure>
 
-Game information is now available in the [Game View](../navigation/system-view-and-game-view.md#game-view)
+Game information is now available in the Game View
 
 <figure><img src="https://i.imgur.com/hJOODzs.png" alt=""><figcaption><p>Game information has been added to the database</p></figcaption></figure>
 
 ### Per game scraping
 
-In order to scrape only a single game, select the game and long-press ![](<../.gitbook/assets/image (1) (2) (1).png>) to open the [game options](../navigation/game-options.md).&#x20;
+In order to scrape only a single game, select the game and long-press  to open the game options.
 
 Select **Scrape.**
 
 <figure><img src="https://i.imgur.com/gjGEejQ.png" alt=""><figcaption><p>From the game view, highlight a game and long-press SOUTH button</p></figcaption></figure>
 
-A list of possible matches is displayed, select the appropriate game and confirm with ![](<../.gitbook/assets/image (1) (2) (1).png>).
+A list of possible matches is displayed, select the appropriate game and confirm with .
 
 {% hint style="info" %}
 The default search string is based on the ROM filename, to change the search string use the **INPUT** button at the bottom.

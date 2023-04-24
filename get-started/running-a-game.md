@@ -1,12 +1,8 @@
----
-description: Let's play !
----
-
 # Running a game
 
 ### Choosing a Game and starting it
 
-In order to run a game, when in the [Game View](../navigation/system-view-and-game-view.md) press the ![](<../.gitbook/assets/image (1) (2) (1).png>) button.
+In order to run a game, when in the Game View press the  button.
 
 <figure><img src="https://i.imgur.com/hJOODzs.png" alt=""><figcaption><p>Highlight the game and press "SOUTH" button</p></figcaption></figure>
 
@@ -16,16 +12,14 @@ A splash screen appears and the Emulator starts the game.
 
 <figure><img src="https://i.imgur.com/qnYUzgA.png" alt=""><figcaption><p>Game in emulator</p></figcaption></figure>
 
-Once you have finished your gaming session, you can press HOTKEY + START to close the emulator and return to the [Game View](../navigation/system-view-and-game-view.md#game-view).
-
-
+Once you have finished your gaming session, you can press HOTKEY + START to close the emulator and return to the Game View.
 
 ### Choosing the Emulator
 
 Usually, ProjectArcade defaults to the best / more stable emulator for each system. However, if the default emulator does not work for you, you can change the Emulator for a whole system or for a specific game.
 
 {% hint style="info" %}
-The full list of available emulators per system can be found in the [Supported Game Systems](../supported-game-systems/) section of the wiki.
+The full list of available emulators per system can be found in the Supported Game Systems section of the wiki.
 {% endhint %}
 
 #### Changing emulator for the System
@@ -44,7 +38,7 @@ Select the Emulator in the list.
 
 #### Changing emulator for a game
 
-From the [Game View](../navigation/system-view-and-game-view.md), highlight a game and long-press ![](<../.gitbook/assets/image (1) (2) (1).png>), choose **Advanced game options**.
+From the Game View, highlight a game and long-press , choose **Advanced game options**.
 
 <figure><img src="https://i.imgur.com/QB1L9SQ.png" alt=""><figcaption></figcaption></figure>
 

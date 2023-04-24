@@ -8,9 +8,7 @@ Once ProjectArcade is installed, the ProjectArcade installation folder contains 
 
 This folder is where (with few exceptions) all system bios & firmwares will need to be placed.
 
-More on bios files can be found in each [system individual pages](../supported-game-systems/).
-
-
+More on bios files can be found in each system individual pages.
 
 ## emulators folder
 
@@ -36,7 +34,7 @@ This folder can be used to store magazines, these will appear in ProjectArcade i
 
 This is the folder where the games rom need to be copied, each game has to be placed in the correct system subfolder and must have an extension that is accepted by the emulator.
 
-More information can be found in each [system individual pages](../supported-game-systems/).
+More information can be found in each system individual pages.
 
 ## saves folder
 
@@ -45,8 +43,6 @@ This folder contains game saves, whenever you are using the save function in an 
 ## screenshots folder
 
 This folder contains all screenshots one takes during gameplay.
-
-
 
 {% hint style="info" %}
 If you notice that a save or a screenshot is not recorded in the right folder, please contact the #TheDayG0ne that will fix it if possible.
