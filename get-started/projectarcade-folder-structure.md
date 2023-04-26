@@ -2,7 +2,7 @@
 
 Once ProjectArcade is installed, the ProjectArcade installation folder contains the following folders & files:
 
-<figure><img src="https://i.imgur.com/MwQl2t9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана 2023-04-26 211602.png" alt=""><figcaption></figcaption></figure>
 
 ## bios folder
 
