@@ -12,13 +12,9 @@ The first screen displayed when launching ProjectArcade is the **System View**, 
 
 <figure><img src="https://i.imgur.com/pYMalry.png" alt=""><figcaption><p>System View with <strong>ES-THEME-CARBON</strong></p></figcaption></figure>
 
-{% hint style="info" %}
 Only the systems for which ROMs have been placed in the roms folder will appear.
-{% endhint %}
 
-{% hint style="info" %}
 Some systems are grouped, read the [Grouped systems](system-view-and-game-view.md#grouped-systems) section for more information.
-{% endhint %}
 
 From the **System View**, different screens can be accessed.
 
@@ -140,6 +136,4 @@ Press START
 
 <figure><img src="https://i.imgur.com/y59e6gz.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
 Each Theme might have different Gamelist View Styles, just choose the one you like most.
-{% endhint %}
