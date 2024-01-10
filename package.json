@@ -1,0 +1,24 @@
+{
+  "name": "projectarcade-wiki",
+  "version": "1.0.0",
+  "description": "ProjectArcade Wiki & Documentation",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRO100BYTE/ProjectArcade-Wiki.git"
+  },
+  "author": "PRO100BYTE Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PRO100BYTE/ProjectArcade-Wiki/issues"
+  },
+  "homepage": "https://github.com/PRO100BYTE/ProjectArcade-Wiki#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.36"
+  }
+}
