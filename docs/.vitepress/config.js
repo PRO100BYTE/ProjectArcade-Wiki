@@ -2,6 +2,8 @@
 module.exports = {
   title: "ProjectArcade Wiki",
   description: "ProjectArcade Wiki & Documentation Page",
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  lang: 'ru-RU',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
