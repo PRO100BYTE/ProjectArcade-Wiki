@@ -38,12 +38,12 @@ module.exports = {
           {
             text: 'Navigation',
             items: [
-              { text: 'Navigation Keys', link: '/en/navigation/'},
-              { text: 'Hotkeys', link: '/en/navigation/' },
-              { text: 'System View and Game View', link: '/en/navigation/' },
-              { text: 'Main Menu', link: '/en/navigation/' },
-              { text: 'View Options', link: '/en/navigation/' },
-              { text: 'Game Options', link: '/en/navigation/' },
+              { text: 'Navigation Keys', link: '/en/navigation/navigation-keys.md'},
+              { text: 'Hotkeys', link: '/en/navigation/hotkeys.md' },
+              { text: 'System View and Game View', link: '/en/navigation/system-view-and-game-view.md' },
+              { text: 'Main Menu', link: '/en/navigation/main-menu.md' },
+              { text: 'View Options', link: '/en/navigation/view-options.md' },
+              { text: 'Game Options', link: '/en/navigation/game-options.md' },
               { text: 'Configuration of systems and games', link: '/en/navigation/' },
               { text: 'Scraping & Metadata', link: '/en/navigation/' },
               { text: 'Game Collections', link: '/en/navigation/' }

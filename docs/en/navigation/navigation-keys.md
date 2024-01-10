@@ -6,13 +6,13 @@ A detailed pdf notice provided by RetroBat team can be found [here](https://dl.p
 
 ### **Controller navigation keys**
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](</img/image (3) (1) (1).png>)
 
 
 
 ### **Keyboard navigation keys**
 
-![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](</img/image (1) (1) (1) (1).png>)
 
 
 

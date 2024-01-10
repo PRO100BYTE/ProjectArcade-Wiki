@@ -79,17 +79,13 @@ This menu item is used to manage ProjectArcade sounds :
 | Create Custom Collection | Add a Game Collection to ProjectArcade                               |
 | Options                  | Several display options: sorting, show hidden systems...        |
 
-{% hint style="info" %}
 More information on Game Collections is available in the [dedicated wiki section](../advanced-features/game-collections.md).
-{% endhint %}
 
 ### Scraper
 
 This menu item is used to configure Scrapers and launch game scraping.
 
-{% hint style="info" %}
 More information on Scrapers is available in the [dedicated wiki section.](../advanced-features/scraping-and-metadata.md)
-{% endhint %}
 
 ### Updates & Downloads
 
@@ -98,9 +94,7 @@ This menu item is used to:
 * Download content such as Free Games, Bezels, Themes
 * Update ProjectArcade
 
-{% hint style="warning" %}
 ProjectArcade does not provide ROMs, only Games that are not licenced and free-to-use are available in the Download section.
-{% endhint %}
 
 ### System Settings
 
