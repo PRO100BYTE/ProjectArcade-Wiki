@@ -5,6 +5,7 @@ module.exports = {
   head: [['link', { rel: 'icon', href: '/img/favicon.ico' }]],
   lang: 'en-US',
   lastUpdated: true,
+  ignoreDeadLinks: true,
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -70,8 +71,6 @@ module.exports = {
     editLink: {
       pattern: 'https://github.com/PRO100BYTE/ProjectArcade-Wiki/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
-    },
-
-    ignoreDeadLinks: true
+    }
   }
 }
