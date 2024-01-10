@@ -10,7 +10,7 @@ You can use the navigation menu located in the left column to quickly find the i
 * If you are an advanced user and you are looking for information about a specific Game System, you can head over to the Supported game systems section, which will provide information about available emulators, BIOS requirements and detailed per-system features.
 * The Advanced features section contains information about specific functionalities provided with ProjectArcade
 
-\#TheDayG0ne with the RetroBat team is also including some specific Tutorials that will be enhanced by the developer based on common support requirements.
+PRO100BYTE Team with the RetroBat team is also including some specific Tutorials that will be enhanced by the developer based on common support requirements.
 
 ##
 
@@ -20,31 +20,27 @@ If the information you are looking for does not exist (yet), you can contact the
 
 * [Website](https://projectarcade.ru)
 * [VK](https://vk.com/projectarcade)
-* [Telegram](https://t.me/projectarcade\_support)
-* [GitHub](https://github.com/ProjectArcade)
+* [GitHub](https://github.com/PRO100BYTE/ProjectArcade)
+* [Itch.io](https://thedayg0ne.itch.io/projectarcade)
+* [SourceForge](https://sourceforge.net/projects/projectarcade/)
 
-#### #TheDayG0ne:
+#### PRO100BYTE Team:
 
-* [Website](https://thedayg0ne.ru)
-* [VK](https://vk.com/thedayg0ne)
+* [Website](https://pro100byte.ru)
 * [Telegram](https://t.me/thedayg0ne)
-* [GitHub](https://github.com/thedayg0ne)
-* [GitBro](https://gitbro.ru/thedayg0ne)
-* [Code Writers](https://cowr.org/members/thedayg0ne.2/)
-* E-mail: me@thedayg0ne.ru
+* [GitHub](https://github.com/PRO100BYTE)
+* E-mail: community@pro100byte.ru
 
 #### RetroBat Team:
 
-* [Official Website](https://www.retrobat.org/)
-* [Facebook](https://social.retrobat.org/facebook)
+* [Website](https://www.retrobat.org/)
 * [RetroBat Forum](https://social.retrobat.org/forum)
 * [Discord server](https://social.retrobat.org/discord)
-* [Twitter](https://twitter.com/RetroBat\_Off)
 
 ##
 
 At the moment, the wiki page is only available in English, but it is planned to add a Russian-language wiki as well.
 
-I sincerely thank the RetroBat team for providing documentation for my project. This Wiki is also compatible with RetroBat
+We sincerely thank the RetroBat team for providing documentation for our project. This Wiki is also compatible with RetroBat
 
 #### Thank you!
