@@ -3,7 +3,9 @@ module.exports = {
   title: "ProjectArcade Wiki",
   description: "ProjectArcade Wiki & Documentation Page",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
-  lang: 'ru-RU',
+  lang: 'en-US',
+  lastUpdated: true,
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -63,6 +65,11 @@ module.exports = {
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/PRO100BYTE/ProjectArcade' }
-    ]
+    ],
+
+    editLink: {
+      pattern: 'https://github.com/PRO100BYTE/ProjectArcade-Wiki/edit/main/docs/:path',
+      text: 'Edit this page on GitHub'
+    }
   }
 }
