@@ -7,7 +7,7 @@ ProjectArcade is a shell created specifically for all fans of retrogaming. The s
 You can use the navigation menu located in the left column to quickly find the information you need.
 
 * If you are a beginner with ProjectArcade, you can head to the [Get started](get-started/prerequisites.md) section and let it guide you through the installation and first setup steps.
-* If you are an advanced user and you are looking for information about a specific Game System, you can head over to the [Supported game systems](systems-and-emulators/supported-game-systems/) section, which will provide information about available emulators, BIOS requirements and detailed per-system features.
+* If you are an advanced user and you are looking for information about a specific Game System, you can head over to the [Supported game systems](#) section, which will provide information about available emulators, BIOS requirements and detailed per-system features.
 * The [Advanced features](#) section contains information about specific functionalities provided with ProjectArcade
 
 PRO100BYTE Team with the RetroBat team is also including some specific [Tutorials](#) that will be enhanced by the developer based on common support requirements.

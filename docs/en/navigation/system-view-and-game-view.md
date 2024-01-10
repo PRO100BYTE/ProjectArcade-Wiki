@@ -20,13 +20,13 @@ From the **System View**, different screens can be accessed.
 
 ### Quick Search&#x20;
 
-The quick search menu is displayed by pressing ![](<../.gitbook/assets/image (2) (1) (1).png>). It allows you to search for games.
+The quick search menu is displayed by pressing ![](</img/image (2) (1) (1).png>). It allows you to search for games.
 
 <figure><img src="https://i.imgur.com/4jmo9se.png" alt=""><figcaption><p>The Quick Search allows you to easily find your games</p></figcaption></figure>
 
 ### Navigation bar
 
-The navigation bar is displayed by pressing ![](<../.gitbook/assets/image (4) (1).png>).
+The navigation bar is displayed by pressing ![](</img/image (4) (1).png>).
 
 <figure><img src="https://i.imgur.com/X1GYL7I.png" alt=""><figcaption></figcaption></figure>
 
@@ -111,14 +111,14 @@ Now these systems appear individually in the System View.
 
 The **Game View** is where you browse your games and launch them.
 
-To enter **Game View**, select a System or a Collection in the **System View** by using left and right buttons, and press ![](<../.gitbook/assets/image (1) (2) (1).png>).
+To enter **Game View**, select a System or a Collection in the **System View** by using left and right buttons, and press ![](</img/image (1) (2) (1).png>).
 
 <figure><img src="https://i.imgur.com/TTC0HMH.png" alt=""><figcaption><p>The <strong>Gamelist view</strong> is where you browse the games for a specific system.</p></figcaption></figure>
 
 Navigate your games using the Directional PAD.
 
-* Press ![](<../.gitbook/assets/image (1) (2) (1).png>) to run the game (long-press to display [Game Options](game-options.md)).
-* Press ![](<../.gitbook/assets/image (4) (1).png>)to navigate back to the **System View**.
+* Press ![](/img/image (1) (2) (1).png>) to run the game (long-press to display [Game Options](game-options.md)).
+* Press ![](</img/image (4) (1).png>)to navigate back to the **System View**.
 
 The Gamelist can be displayed in multiple ways, this can be configured from the [VIEW OPTIONS](view-options.md) (press SELECT):
 
