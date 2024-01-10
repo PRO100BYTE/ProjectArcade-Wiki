@@ -50,7 +50,7 @@ Select THE BEZEL PROJECT and choose the system for which you want to download be
 
 </div>
 
-Press ![](<../.gitbook/assets/image (25).png>) and confirm installation.
+Press ![](</img/image (25).png>) and confirm installation.
 
 <div align="left">
 
@@ -102,9 +102,8 @@ Example of decoration from The Bezel Project:
 
 </div>
 
-{% hint style="info" %}
-To use per game Bezels, the rom file needs to have the exact same name as the bezel in the `\decorations\thebezelproject\games` folder.
-{% endhint %}
+> [!IMPORTANT]
+> To use per game Bezels, the rom file needs to have the exact same name as the bezel in the `\decorations\thebezelproject\games` folder.
 
 <div align="left">
 
@@ -116,9 +115,8 @@ To use per game Bezels, the rom file needs to have the exact same name as the be
 
 The MegaBezel pack combines both Shaders and Bezels, it adds dynamic reflections on the bezel.
 
-{% hint style="info" %}
-Mega Bezels can only be used with Libretro cores, it does not work with standalone emulators.
-{% endhint %}
+> [!TIP]
+> Mega Bezels can only be used with Libretro cores, it does not work with standalone emulators.
 
 ### Downloading a MegaBezel pack
 
@@ -158,9 +156,8 @@ In addition, set **DECORATIONS** to **NONE** and **GAME ASPECT RATIO** to **FULL
 
 </div>
 
-{% hint style="info" %}
-You can leave GAME ASPECT RATIO on "AUTO" if you are using a 4/3 screen.
-{% endhint %}
+> [!TIP]
+> You can leave GAME ASPECT RATIO on "AUTO" if you are using a 4/3 screen.
 
 Last but not least, Mega Bezels only work with **VULKAN** video driver, so ensure it is set properly in the [**Advanced Settings > Drivers** menu](../navigation/view-options.md#advanced-system-options)
 

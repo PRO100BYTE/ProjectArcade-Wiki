@@ -67,15 +67,14 @@ Arcade ROMs can be formatted four ways:
 * **Merged**: Clones are merged into the parent romset zip, meaning that more than one game is stored per file. \
 
 
-{% hint style="warning" %}
-Merged rom sets are not supported, as only the main game will be seen in RetroBat and launched by Mame core.&#x20;
+> [!WARNING]
+> Merged rom sets are not supported, as only the main game will be seen in RetroBat and launched by Mame core.&#x20;
+>
+> We recommend the use of Non-merged rom sets.
 
-We recommend the use of Non-merged rom sets.
-{% endhint %}
 
-{% hint style="info" %}
-Do not rename the zipped ROM files. Scrapers will recognize the games with the .zip filename and match them with the right game.
-{% endhint %}
+> [!IMPORTANT]
+> Do not rename the zipped ROM files. Scrapers will recognize the games with the .zip filename and match them with the right game.
 
 ## Additional files
 
@@ -105,10 +104,9 @@ For example, for `kinst.zip` the game will be looking for `kinst\kinst.chd`.
 
 ## Links and references
 
-{% hint style="info" %}
-**Credits**
-
-A big chunk of information from this page has been sourced from libretro documentation:
-
-[https://docs.libretro.com/guides/arcade-getting-started/](https://docs.libretro.com/guides/arcade-getting-started/)
-{% endhint %}
+> [!IMPORTANT]
+> **Credits**
+> 
+> A big chunk of information from this page has been sourced from libretro documentation:
+> 
+> [https://docs.libretro.com/guides/arcade-getting-started/](https://docs.libretro.com/guides/arcade-getting-started/)

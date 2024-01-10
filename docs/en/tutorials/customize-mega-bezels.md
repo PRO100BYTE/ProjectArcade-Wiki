@@ -134,5 +134,3 @@ The Mega-Bezel is now displayed in the correct way.
 
 Many more settings are availabe, and each system has multiple presets.\
 You can refer to Duimon's Github page for more information : [https://github.com/Duimon/Duimon-Mega-Bezel](https://github.com/Duimon/Duimon-Mega-Bezel)
-
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCgoewyw8Sagl6SNUMrCG%2Fuploads%2F4GBUEMCfoEYBAeER58HG%2FEdit%20Shaders%20Presets.mp4?alt=media&token=ae36a62c-76b7-4e24-a0b3-86581f79cba9" %}

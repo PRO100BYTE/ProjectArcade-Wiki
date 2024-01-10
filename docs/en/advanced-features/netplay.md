@@ -37,7 +37,7 @@ Retrobat will need to index games with NetPlay capabilities, this is done from t
 
 ## Joining a NetPlay game
 
-Once NetPlay is activated, when in the System View, use the ![](<../.gitbook/assets/image (45).png>)  button to display NetPlay Games
+Once NetPlay is activated, when in the System View, use the ![](</img/image (45).png>)  button to display NetPlay Games
 
 <div align="left">
 
@@ -77,9 +77,8 @@ In the next screen, select HOST A NETPLAY GAME to start a NetPlay session.
 
 The session will be visible in the Netplay Sessions screen and other players will be able to join.
 
-{% hint style="info" %}
-You can also add passwords to your session to allow only designated people to join the session.
-{% endhint %}
+> [!WARNING]
+> You can also add passwords to your session to allow only designated people to join the session.
 
 ## NetPlay considerations
 

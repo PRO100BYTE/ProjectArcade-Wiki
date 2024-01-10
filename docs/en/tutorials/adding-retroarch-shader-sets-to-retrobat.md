@@ -33,9 +33,7 @@ They are sorted first by type of shader (glsl or slang):
 * GLSL: Shader format available to OpenGL.
 * Slang: New and recommended shader format, when available. Compatible with Vulkan, Direct3D 10/11/12, OpenGL Core.
 
-{% hint style="info" %}
 Retrobat will automatically search in the right folder based on the video driver defined for the system.
-{% endhint %}
 
 Example of shader folders for GLSL:
 
@@ -51,7 +49,7 @@ Example of shader folders for GLSL:
 
 Let's say you want to add the Shader "advcartoon" to Retrobat, the shader is available both for GLSL and SLANG:
 
-| ![](<../.gitbook/assets/image (17).png>) | ![](<../.gitbook/assets/image (41).png>) |
+| ![](</img/image (17).png>) | ![](</img/image (41).png>) |
 | ---------------------------------------- | ---------------------------------------- |
 
 The shader is located in the `\retroarch\shaders\shaders_xxxx\cel` folder and is named "advcartoon.glslp".

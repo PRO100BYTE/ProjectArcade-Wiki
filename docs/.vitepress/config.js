@@ -70,6 +70,8 @@ module.exports = {
     editLink: {
       pattern: 'https://github.com/PRO100BYTE/ProjectArcade-Wiki/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
-    }
+    },
+
+    ignoreDeadLinks: true
   }
 }
