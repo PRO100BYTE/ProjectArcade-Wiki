@@ -20,7 +20,7 @@ jobs:
       shell: bash
     - run : npm ci
       shell: bash
-    - run : npm run dev:build
+    - run : npm run docs:build
       shell: bash
     - run : git config user.name github-actions
       shell: bash
