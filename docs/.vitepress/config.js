@@ -38,12 +38,15 @@ module.exports = {
           {
             text: 'Navigation',
             items: [
-              { text: 'Prerequisites', link: '/en/navigation/'},
-              { text: 'Installation & First Startup', link: '/en/navigation/' },
-              { text: 'ProjectArcade Folder Structure', link: '/en/navigation/' },
-              { text: 'Adding a game', link: '/en/navigation/' },
-              { text: 'Running a game', link: '/en/navigation/' },
-              { text: 'Adding BIOS files', link: '/en/navigation/' }
+              { text: 'Navigation Keys', link: '/en/navigation/'},
+              { text: 'Hotkeys', link: '/en/navigation/' },
+              { text: 'System View and Game View', link: '/en/navigation/' },
+              { text: 'Main Menu', link: '/en/navigation/' },
+              { text: 'View Options', link: '/en/navigation/' },
+              { text: 'Game Options', link: '/en/navigation/' },
+              { text: 'Configuration of systems and games', link: '/en/navigation/' },
+              { text: 'Scraping & Metadata', link: '/en/navigation/' },
+              { text: 'Game Collections', link: '/en/navigation/' }
             ]
           }
         ]
