@@ -19,10 +19,11 @@ module.exports = {
     ],
 
     sidebar: [
-      { text: 'Welcome!', link: '/index.md'},
+      { text: 'Welcome! Добро пожаловать!', link: '/index.md'},
       {
         text: 'English / Английский',
         items: [
+          { text: 'Welcome!', link: '/en/index.md'},
           {
             text: 'Get Started',
             items: [
