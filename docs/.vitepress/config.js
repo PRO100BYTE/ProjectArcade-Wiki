@@ -2,7 +2,7 @@
 module.exports = {
   title: "ProjectArcade Wiki",
   description: "ProjectArcade Wiki & Documentation Page",
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/img/favicon.ico' }]],
   lang: 'en-US',
   lastUpdated: true,
 
