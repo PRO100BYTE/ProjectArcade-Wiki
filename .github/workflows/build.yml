@@ -26,7 +26,7 @@ jobs:
       shell: bash
     - run : git config user.email github-actions@github.com
       shell: bash
-    - run : git --work-tree build add --all
+    - run : git build add --all
       shell: bash
     - run : git remote set-url origin https://x-access-token:${{ secrets.PUBLISH_TOKEN }}@github.com/${{ github.repository }}
       shell: bash
